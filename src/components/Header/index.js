@@ -1,9 +1,10 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom/cjs/react-router-dom.min';
-import './App.css'
-import './Nav.css'
 
-function Nav() {
+// import './App.css'
+import './style.css'
+
+function Header() {
   return (
     <div className="navdiv">
       <nav>
@@ -42,4 +43,4 @@ function Nav() {
   );
 }
 
-export default Nav;
+export default Header;
