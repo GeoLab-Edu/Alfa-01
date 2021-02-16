@@ -1,0 +1,24 @@
+.sectionThreeMargin {
+    margin: 70px 0 0 0;
+    
+}
+.sectionThreeScroll {
+    width: 6500px;
+    height: 378px;
+    display: flex;
+    flex-direction: row;
+}
+.sectionThreeScroll svg {
+    margin: 0 15px;
+}
+.sectionThreeScrollOne{
+    overflow-x: scroll;
+    width: 1105px;
+}
+.sectionThreeScrollOne::-webkit-scrollbar {  
+    height: 7px;
+}
+.sectionThreeScrollOne::-webkit-scrollbar-thumb {   
+    background-color: #E84F5B;
+    border-radius: 20px;
+}

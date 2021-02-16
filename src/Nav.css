@@ -1,0 +1,40 @@
+.navdiv{
+    background-color: #110F0F;
+    /* opacity: 0.2; */
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: static;
+    width: 100%;
+    height: 100px;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: 0 40px;
+    font-size: 18px;
+}
+.navLogo{
+    font-size: 30px;
+}
+.liPersonalCabnet {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E84F5B;
+    border-radius: 5px;
+    width: 185px;
+    height: 34px;
+}
+.aPersonalCabnet {
+    text-align: center;
+    font-size: 12px;
+}
