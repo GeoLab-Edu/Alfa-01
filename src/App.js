@@ -7,9 +7,9 @@ import Header from "./components/Header";
 import Contacts from "./components/Contacts";
 
 // Screens
-import Home from "./screens/home";
 
 import './App.css';
+import Home from "./screens/home/Home";
 
 
 function App() {
@@ -17,7 +17,6 @@ function App() {
     <Router>
       <div className="App">
         <Header />
-        <Contacts />
         <Switch>
           <Route path="/Home" exact component={Home} />
           <Route path="/" isActive={(match, location) => {
@@ -27,6 +26,7 @@ function App() {
             return false
           }} exact component={Home} />
         </Switch>
+        <Contacts />
         <Footer />
       </div>
     </Router>

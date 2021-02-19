@@ -1,20 +1,42 @@
-.navdiv{
+.header::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
     background-color: #110F0F;
-    /* opacity: 0.2; */
+    width: 100%;
+    height: 100px;
+    opacity: 34%;
+    content: "";
+    z-index: 1;
+    position: fixed;
 }
-nav {
+.header nav {
+    z-index: 1;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    position: static;
+    position: fixed;
     width: 100%;
     height: 100px;
 }
-nav ul {
+.ulLogo {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ulNav {
+    width: 50%;
     display: flex;
     justify-content: space-around;
     align-items: center;
     list-style: none;
+    margin: 0;
 }
 nav ul li a {
     text-decoration: none;
@@ -22,7 +44,12 @@ nav ul li a {
     margin: 0 40px;
     font-size: 18px;
 }
+nav ul li a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
 .navLogo{
+    vertical-align: middle;
     font-size: 30px;
 }
 .liPersonalCabnet {
@@ -37,4 +64,51 @@ nav ul li a {
 .aPersonalCabnet {
     text-align: center;
     font-size: 12px;
+}
+.headerLogo {
+    width: 38px;
+    height: 32px;
+}
+button.btn.btn-primary {
+    padding: 0;
+    height: 35px;
+    background-color: transparent;
+    border-color: transparent;
+}
+.btn:focus {
+    box-shadow: none !important;
+}
+.btn-primary:not(:disabled):not(.disabled):active {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.Mask {
+    width: 41.05px;
+    height: 38px;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.EN {
+    margin-right: 10px;
+    padding: 2px 4px;
+    background-color: transparent;
+    border-radius: 2rem;
+    border: 1.5px #FFFFFF solid;
+}
+.languageActive {
+    background-color: #E84F5B;
+}
+.GE {
+    padding: 2px 4px;
+    background-color: transparent;
+    border-radius: 2rem;
+    border: 1.5px #FFFFFF solid;
+}
+.languageButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

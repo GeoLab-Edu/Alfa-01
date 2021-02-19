@@ -1,0 +1,89 @@
+{
+    "Data": {
+        "Header": {
+            "1":"HOME",
+            "2":"FOR BUSSINES",
+            "3":"COMPANY",
+            "4":"PERSONAL CABNET"
+        },
+        "SectionOne": {
+            "1":"PROPERTY INSURANCE",
+            "2":"To avoid the unexpected expenses and major discomfort choose a better",
+            "3":"insurance policy for your home and continue to live in peace."
+        },
+        "SectionTwo":{ 
+            "title":{
+                "1":"INDIVIDUAL",
+                "2":"Alpha offers a variety of products to insure your property and liability. In order to get the terms that suit you best, contact",
+                "3":"your agent."
+            },
+            "insurance":{
+                "1":"INDIVIDUAL",
+                "2":"AUTO INSURANCE",
+                "3":"TRAVEL INSURANCE",
+                "4":"HEALTH INSURANCE",
+                "5":"BANK INSURANCE",
+                "6":"OTHER..."
+            }
+        },
+        "SectionThree":{
+            "offer":{
+                "offer":"OTHER OFFERS"
+            },
+            "cards":{
+                "1":"online",
+                "2":"consultation",
+                "3":"pleasing news from alpha, now you",
+                "4":"can get a consultation online"
+            }
+        },
+        "Footer":{
+            "Individual":{
+                "1":"INDIVIDUAL",
+                "2":"health",
+                "3":"auto",
+                "4":"travel",
+                "5":"property",
+                "6":"responsibility"
+            },
+            "ForBussines":{
+                "1":"For Bussines",
+                "2":"bank",
+                "3":"transport",
+                "4":"truck",
+                "5":"property",
+                "6":"harvest",
+                "7":"responsibility"
+            },
+            "Company":{
+                "1":"Company",
+                "2":"who we are",
+                "3":"history",
+                "4":"career",
+                "5":"blog"
+            },
+            "Contact":{
+                "1":"Contact",
+                "2":"hot line",
+                "3":"online consultation",
+                "4":"anonymous message",
+                "5":"complain message",
+                "6":"offices"
+            },
+            "Apps":{
+                "1":"Our Apps:"
+            },
+            "Partners":{
+                "1":"AVERSI Rational",
+                "2":"MEDALPHA HOSPITALS",
+                "3":"AVERSI PHARMA",
+                "4":"NATIONAL CENTER FOR SURGERY",
+                "5":"AVERSI CLINIC",
+                "6":"BOCHORISHVILI CLINICS"
+            }
+
+
+        }
+
+    }
+}
