@@ -9,6 +9,10 @@
 }
 .right-box img{
     margin-left: 8px;
+    padding-top: 24px;
+}
+.p-top{
+    padding-top: 24px;
 }
 .text h6{
     font-size: 14px;

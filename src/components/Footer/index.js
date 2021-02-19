@@ -1,5 +1,9 @@
 
 import { useTranslation } from 'react-i18next';
+
+import FooterMenu from '../FooterMenu';
+
+
 import FooterLogo from '../../assets/images/footer-logo.svg';
 import youtube from '../../assets/images/youtube.svg';
 import FbIcon from '../../assets/images/Fb.svg';
@@ -36,40 +40,40 @@ export default function Footer() {
                 </div>
                 <div className='row'>
 
-                    <div className='col-2 text'>
-                        <h6>{t('Data.Footer.Individual.1')}</h6>
-                        <p>{t('Data.Footer.Individual.2')}</p>
-                        <p>{t('Data.Footer.Individual.3')}</p>
-                        <p>{t('Data.Footer.Individual.4')}</p>
-                        <p>{t('Data.Footer.Individual.5')}</p>
-                        <p>{t('Data.Footer.Individual.6')}</p>
+                    <FooterMenu title={t('Data.Footer.Individual.1')} items={[
+                        t('Data.Footer.Individual.2'),
+                        t('Data.Footer.Individual.3'),
+                        t('Data.Footer.Individual.4'),
+                        t('Data.Footer.Individual.5'),
+                        t('Data.Footer.Individual.6'),
+                    ]} />
 
-                    </div>
-                    <div className='col-2 text'>
-                        <h6>{t('Data.Footer.ForBussines.1')}</h6>
-                        <p>{t('Data.Footer.ForBussines.2')}</p>
-                        <p>{t('Data.Footer.ForBussines.3')}</p>
-                        <p>{t('Data.Footer.ForBussines.4')}</p>
-                        <p>{t('Data.Footer.ForBussines.5')}</p>
-                        <p>{t('Data.Footer.ForBussines.6')}</p>
-                        <p>{t('Data.Footer.ForBussines.7')}</p>
-                    </div>
-                    <div className='col-2 text'>
-                        <h6>{t('Data.Footer.Company.1')}</h6>
-                        <p>{t('Data.Footer.Company.2')}</p>
-                        <p>{t('Data.Footer.Company.3')}</p>
-                        <p>{t('Data.Footer.Company.4')}</p>
-                        <p>{t('Data.Footer.Company.5')}</p>
-                    </div>
-                    <div className='col-2 text'>
-                        <h6>{t('Data.Footer.Contact.1')}</h6>
-                        <p>{t('Data.Footer.Contact.2')}</p>
-                        <p>{t('Data.Footer.Contact.3')}</p>
-                        <p>{t('Data.Footer.Contact.4')}</p>
-                        <p>{t('Data.Footer.Contact.5')}</p>
-                        <p>{t('Data.Footer.Contact.6')}</p>
+                    <FooterMenu title={t('Data.Footer.ForBussines.1')} items={[
+                        t('Data.Footer.ForBussines.2'),
+                        t('Data.Footer.ForBussines.3'),
+                        t('Data.Footer.ForBussines.4'),
+                        t('Data.Footer.ForBussines.5'),
+                        t('Data.Footer.ForBussines.6'),
+                        t('Data.Footer.ForBussines.7')
+                    ]} />
 
-                    </div>
+
+                    <FooterMenu title={t('Data.Footer.Company.1')} items={[
+                        t('Data.Footer.Company.2'),
+                        t('Data.Footer.Company.3'),
+                        t('Data.Footer.Company.4'),
+                        t('Data.Footer.Company.5')
+                    ]} />
+
+
+                    <FooterMenu title={t('Data.Footer.Contact.1')} items={[
+                        t('Data.Footer.Contact.1'),
+                        t('Data.Footer.Contact.2'),
+                        t('Data.Footer.Contact.3'),
+                        t('Data.Footer.Contact.5'),
+                        t('Data.Footer.Contact.6')
+                    ]} />
+
                     <div className='col-2 text'>
                         <h6>{t('Data.Footer.Apps.1')}</h6>
                         <div className='App-store row justify-content-end'>
@@ -77,7 +81,7 @@ export default function Footer() {
                         </div>
 
                     </div>
-                    <div className='col-2 text'>
+                    <div className='col-2 text p-top'>
                         <div className='App-store row justify-content-end'>
                             <img src={Android} alt="Logo" />
                         </div>
@@ -97,7 +101,7 @@ export default function Footer() {
                 </div>
             </div>
 
-        </div>
+        </div >
 
     )
 }
