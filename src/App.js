@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 // Components
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Contacts from "./components/Contacts";
+
 
 // Screens
 
@@ -26,7 +26,7 @@ function App() {
             return false
           }} exact component={Home} />
         </Switch>
-        <Contacts />
+       
         <Footer />
       </div>
     </Router>

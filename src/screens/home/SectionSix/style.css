@@ -1,0 +1,37 @@
+.background-img{
+    background-image: url(../../../assets/images/Pexels.svg); 
+    background-color: #cccccc; 
+    height: 310px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;  
+}
+
+.two-box{
+    bottom: 50px;
+}
+.clip-div{
+    height: 180px;
+    width: 52% !important;
+    background-color: #000;
+    opacity: 34%;
+    top: 30%;
+    clip-path: polygon(20% 0%, 100% 0, 100% 0, 94% 100%, 80% 100%, 0 100%, 0% 80%, 0 0);
+
+}
+.border-red{
+    border: 1px solid red;
+}
+.text-box{
+    bottom: 10px;
+    width: 60%;
+   
+
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+ 

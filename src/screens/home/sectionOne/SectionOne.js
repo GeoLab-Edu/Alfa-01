@@ -20,6 +20,7 @@ export default function SectionOne() {
               alt="First slide"
             />
             <Carousel.Caption>
+              <p>ajsdasdjasdbjhabdjb</p>
               <svg id="Component_8_1" dataname="Component 8 – 1" xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
                 <path id="Path_79" dataname="Path 79" d="M10,0H900L860,190a10,10,0,0,1-10,10H10A10,10,0,0,1,0,190V10A10,10,0,0,1,10,0Z" fill="#110f0f" opacity="0.4"/>
                 <g id="Group_219" dataname="Group 219" transform="translate(0 -341)">
