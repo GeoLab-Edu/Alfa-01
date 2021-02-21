@@ -31,7 +31,6 @@ export default function SectionSix() {
                     </div>
                 </div>
 
-
             </div>
 
         </div>

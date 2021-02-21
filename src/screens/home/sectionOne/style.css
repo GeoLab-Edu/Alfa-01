@@ -2,11 +2,19 @@
     float: left !important;
     left: 0 !important;
     right: auto !important;
+    z-index: 0;
 }
 .sectionOneImg {
     height: 750px;
 }
-
+.border {
+    width: 500px;
+    height: 300px;
+    border-radius: 2rem 0 10rem 2rem;
+    background-color: black;
+    border-bottom-right-radius: 20%;
+    clip-path: polygon(0 0, 100% 0, 90% 93%, 87% 97%, 82% 100%, 0 100%, 0% 70%, 0% 30%);
+}
 .carousel-indicators li {
     width: 10px;
     height: 10px;
@@ -18,4 +26,29 @@
 }
 .carousel-control-prev-icon {
     display: none;
+}
+.componentH1 {
+    font-size: 32px;
+    position: relative;
+    bottom: 30px;
+    left: 140px;
+    text-align: start;
+}
+.componentP {
+    font-size: 18px;
+    position: relative;
+    bottom: 60px;
+    width: 660px;
+    height: 70px;
+    text-align: start;
+    float: left;
+    bottom: 10px;
+    left: 140px;
+    font-family:  'Lucida Sans Regular', Verdana, sans-serif;
+}
+.componentImg {
+    position: absolute;
+    float: left;
+    left: 0;
+    bottom: 20px;
 }

@@ -1,5 +1,6 @@
 import SectionOne from './sectionOne/SectionOne'
 import Sectionsix from './SectionSix';
+import SectionTwo from './sectionTwo/SectionTwo'
 
 
 function Home() {
@@ -7,6 +8,7 @@ function Home() {
       <div>
           <SectionOne/>
           <Sectionsix/>
+          <SectionTwo/>
       </div>
   );
 }
