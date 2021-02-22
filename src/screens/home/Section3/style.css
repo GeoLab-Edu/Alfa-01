@@ -1,0 +1,37 @@
+.scroll-title{
+    font-size: 24px;
+    color: #110F0F;
+}
+.box{
+    height: 277px;
+    background-color: #E84F5B;
+    border-radius: 15px;
+    margin-left: 15px;
+    width: 360px;
+    display: inline-block;
+}
+.scroll{
+    overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+
+/* width */
+.scroll::-webkit-scrollbar {
+    height: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #E6E7E8;
+    border-radius: 8px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #E7C9CC; 
+    
+    border-radius: 10px;
+  }
+  

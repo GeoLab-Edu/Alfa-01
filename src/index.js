@@ -2,10 +2,10 @@ import React, { Suspense } from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import './i18next';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 ReactDOM.render(

@@ -7,7 +7,7 @@ import './style.css';
 
 export default function SectionSix() {
     return (
-        <div className='fluid-container background-img  position-relative'>
+        <div className='fluid-container background-img  position-relative mt-5'>
             <div className='clip-div position-relative   '>
 
             </div>
@@ -21,7 +21,7 @@ export default function SectionSix() {
                             <p className='text-white'>და ისარგებლე ჩვენი სერვისებით უფრო მოხერხებულად</p>
                         </div>
                     </div>
-                    <div className='col-6 p-0 '>
+                    <div className='col-6 mr-0 '>
                         <div className='App-store justify-content-end d-flex'>
                             <img src={Apple} alt="Logo" />
                         </div>
@@ -30,6 +30,7 @@ export default function SectionSix() {
                         </div>
                     </div>
                 </div>
+
 
             </div>
 

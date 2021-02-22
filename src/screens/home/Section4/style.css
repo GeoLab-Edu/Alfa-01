@@ -1,0 +1,41 @@
+.carousel-control-prev{
+   display: none;
+}
+.carousel-control-next{
+   display: none;
+}
+.carousel-indicators{
+  bottom: -30px !important;
+ 
+  margin-top: 50px !important;
+}
+.carousel-indicators :active{
+    background-color: #000;
+}
+.carousel-indicators li{
+    background-color: #707070 !important;
+}
+
+.agro-icon {
+    top: 30px;
+    left: 30px;
+   
+   
+}
+.agro-icon img{
+    height: 50px;
+}
+
+.truckicon{
+    top: 30px;
+    right: 30px;
+    
+}
+
+.truckicon img{
+    height: 50px;
+}
+
+.text-black{
+    font-size: 16px;
+}

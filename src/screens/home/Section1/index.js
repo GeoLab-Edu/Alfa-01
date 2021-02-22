@@ -3,10 +3,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import IMG from '../../../components/Header/images/home-photo.png';
-import './style.css';
 import backgroundImg from '../../../assets/images/background.png';
+import './style.css';
 
-export default function SectionOne() {
+
+export default function Section1() {
     
     const { t } = useTranslation();
 
