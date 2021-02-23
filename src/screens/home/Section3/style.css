@@ -10,10 +10,11 @@
     width: 360px;
     display: inline-block;
 }
+
 .scroll{
-    overflow-x: scroll;
+  overflow-x: scroll;
   overflow-y: hidden;
-  white-space: nowrap;
+  height: 300px;
 }
 
 
@@ -34,4 +35,16 @@
     
     border-radius: 10px;
   }
+  .scroll-box-title{
+      font-size: 20px;
+     
+      
+  }
+  .scroll-box-text{
+      font-size: 14px;
+      margin-top: 50px;
+  }
+ 
+
+ 
   

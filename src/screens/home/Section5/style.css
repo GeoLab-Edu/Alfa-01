@@ -1,0 +1,24 @@
+.box-gray{
+    background-color: #5C656B;
+}
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb-gray {
+    background: #000 !important; 
+    
+    border-radius: 10px;
+  }
+  .scroll-logo{
+      height: 40px;
+      margin-bottom: 20px;
+  }
+  .scroll-box-text{
+      margin: 0px;
+  }
+  .gray-div{
+      height: 227px;
+      justify-content: center;
+  }
+  .text-size{
+      font-size: 14px;
+  }
