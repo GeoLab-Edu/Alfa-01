@@ -6,6 +6,30 @@
             "3":"COMPANY",
             "4":"PERSONAL CABNET"
         },
+        "Dropdown": {
+            "Section1": {
+                "1":"Agro",
+                "2":"Liability",
+                "3":"Cargo",
+                "4":"Property",
+                "5":"Trasport",
+                "6":"Other"
+            },
+            "Section2": {
+                "1":"Property",
+                "2":"Automobile",
+                "3":"Travel",
+                "4":"Health",
+                "5":"Bank",
+                "6":"Other"
+            },
+            "Section3": {
+                "1":"Contact",
+                "2":"Who We Are",
+                "3":"History",
+                "4":"Career"
+            }
+        },
         "SectionOne": {
             "1":"PROPERTY INSURANCE",
             "2":"To avoid the unexpected expenses and major discomfort choose a better",

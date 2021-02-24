@@ -1,4 +1,4 @@
-import Pexels from '../../../assets/images/Pexels.svg';
+// import Pexels from '../../../assets/images/pexels.svg';
 import Apple from '../../../assets/images/Apple.svg';
 import Android from '../../../assets/images/Android.svg';
 
