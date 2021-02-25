@@ -22,3 +22,14 @@
   .text-size{
       font-size: 14px;
   }
+  /* Handle */
+  .scroll-gray::-webkit-scrollbar-thumb {
+    background: #CACDCF; 
+    
+    border-radius: 10px;
+  }
+  /* Track */
+  .scroll-gray::-webkit-scrollbar-track {
+    background: #E6E7E8;
+    border-radius: 8px;
+  }

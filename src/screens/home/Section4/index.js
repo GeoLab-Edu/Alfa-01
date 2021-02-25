@@ -13,7 +13,7 @@ export default function Section4() {
     return (
         <div className='section6 container slider'>
             <h1 className='text-center mt-5 '>შენი ბიზნესისთვის</h1>
-            <p className='text-center text-black '>
+            <p className='text-center text-black mb-4'>
                 დაცულია თუ არა შენი ბიზნესი? იცი რა ეღირება შენი ბიზნესის დაცვა?
                 ალდაგი უზრუნველყოფს სადაზღვევო დაფარვებს ათი ათასობით მცირე მეწარმისთვის.
                 ჩვენ გთავაზოვთ შენი ბიზნეს საქმიანობის უნიკალურ საჭიროებებზე მორგებულ დაფარვებს.

@@ -24,13 +24,13 @@
   }
   
   /* Track */
-  ::-webkit-scrollbar-track {
+  .scroll-red::-webkit-scrollbar-track {
     background: #E6E7E8;
     border-radius: 8px;
   }
    
   /* Handle */
-  ::-webkit-scrollbar-thumb {
+  .scroll-red::-webkit-scrollbar-thumb {
     background: #E7C9CC; 
     
     border-radius: 10px;

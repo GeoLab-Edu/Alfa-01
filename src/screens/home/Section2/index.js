@@ -24,11 +24,11 @@ export default function SectionTwo() {
         <div className="sectionOne container">
             <div className='title-sectionone text-center'>
                 <h1>შენთვის</h1>
-                <p>ალფა მრავალფეროვან პროდუქტებს გთავაზობს შენი ქონებისა და პასუხისმგებლობის დასაზღვევად.
+                <p className='mb-4'>ალფა მრავალფეროვან პროდუქტებს გთავაზობს შენი ქონებისა და პასუხისმგებლობის დასაზღვევად.
                  შენზე მორგებული პირობების მისაღებად მიმართე აგენტს.</p>
             </div>
             <div className='row'>
-                <div className='col-4 pr-3 text-center position-relative'>
+                <div className='col-4 pr-0 text-center position-relative'>
                     <img src={IMG1} alt="img" />
                     <p className='pt-2 '>ქონების დაზღვევა</p>
                     <div className='svgicon position-absolute'> <img src={SVG1} alt="img" /> </div>
@@ -43,22 +43,22 @@ export default function SectionTwo() {
                     <p className='pt-2'>სამოგზაურო დაზღვევა</p>
                     <div className='svgicon position-absolute'> <img src={SVG3} alt="img" /> </div>
                 </div>
-                <div className='col-4 pr-3 pt-2 text-center position-relative'>
+                <div className='col-4 pr-0 pt-2 text-center position-relative'>
                     <img src={IMG4} alt="img" />
-                    <p className='pt-2'>ჯანმრთელობის დაზღვევა</p>
+                    <p className='pt-2 pb-0'>ჯანმრთელობის დაზღვევა</p>
                     <div className='svgicon position-absolute'> <img className='' src={SVG4} alt="img" /> </div>
                 </div>
 
                 <div className='col-4 pr-3 pt-2 text-center position-relative'>
                     <img src={IMG5} alt="img" />
-                    <p className='pt-2'>საბანკო დაზღვევა</p>
+                    <p className='pt-2 pb-0'>საბანკო დაზღვევა</p>
                     <div className='position-absolute svgicon'>
                         <img src={SVGICON} alt="img" />
                     </div>
                 </div>
                 <div className='col-4 pr-3 pt-2 text-center'>
                     <img src={IMG6} alt="img" />
-                    <p className='pt-2'>სხვა</p>
+                    <p className='pt-2 pb-0'>სხვა</p>
                     <div className='position-absolute svgicon'>
                         <img src={SVGICON6} alt="img" />
                     </div>

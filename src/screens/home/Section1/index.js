@@ -2,93 +2,84 @@ import { Carousel } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import IMG from '../../../components/Header/images/home-photo.png';
+// import IMG from '../../../components/Header/images/home-photo.png';
 import './style.css';
 
 
 export default function Section1() {
-    
-    const { t } = useTranslation();
+
+  const { t } = useTranslation();
 
 
-    return (
-      <React.Fragment>
-        <div className="sectionOneDiv">
-          <Carousel>
-            <Carousel.Item>
-              <img
-                className="d-block w-100 sectionOneImg"
-                src={IMG}
-                alt="First slide"
-                />
-              <Carousel.Caption>
-                <div className="component">
-                  <div className="componentImg"></div>
-                  <div>
-                    <h1 className="componentH1">{t('Data.SectionOne.1')}</h1>
-                    <div>
-                    <div className='Section1-border-red'></div>
-                      <p className="componentP">
-                          {t('Data.SectionOne.2')}
-                        <p>
-                          {t('Data.SectionOne.3')}
-                        </p>
-                      </p>
-                    </div>
+  return (
+    <React.Fragment>
+
+      <div className="sectionOneDiv ">
+
+        <Carousel>
+          <Carousel.Item>
+            <div className='background-section1 position-relative fluid-container'>
+              <div className='clip position-absolute '>
+              </div>
+              <div className=' section1-div  position-absolute  row w-100' >
+                <div className='container'>
+                  <div className='with-div'>
+                  <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
+                  <div className='border-red mb-2'></div>
+                  <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,
+                  ეს დაზღვევა თქვენთისაა.
+                </p>
                   </div>
+                
                 </div>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-              <img
-                className="d-block w-100 sectionOneImg"
-                src={IMG}
-                alt="First slide"
-                />
-              <Carousel.Caption>
-                <div className="component">
-                  <div className="componentImg"></div>
-                  <div>
-                    <h1 className="componentH1">{t('Data.SectionOne.1')}</h1>
-                    <div>
-                    <div className='Section1-border-red'></div>
-                      <p className="componentP">
-                          {t('Data.SectionOne.2')}
-                        <p>
-                          {t('Data.SectionOne.3')}
-                        </p>
-                      </p>
-                    </div>
+
+              </div>
+            </div>
+
+          </Carousel.Item>
+          <Carousel.Item>
+          <div className='background-section1 position-relative fluid-container'>
+              <div className='clip position-absolute '>
+              </div>
+              <div className=' section1-div  position-absolute  row w-100' >
+                <div className='container'>
+                  <div className='with-div'>
+                  <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
+                  <div className='border-red mb-2'></div>
+                  <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,
+                  ეს დაზღვევა თქვენთისაა.
+                </p>
                   </div>
+                
                 </div>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-              <img
-                className="d-block w-100 sectionOneImg"
-                src={IMG}
-                alt="First slide"
-                />
-              <Carousel.Caption>
-                <div className="component">
-                  <div className="componentImg"></div>
-                  <div>
-                    <h1 className="componentH1">{t('Data.SectionOne.1')}</h1>
-                    <div>
-                    <div className='Section1-border-red'></div>
-                      <p className="componentP">
-                          {t('Data.SectionOne.2')}
-                        <p>
-                          {t('Data.SectionOne.3')}
-                        </p>
-                      </p>
-                    </div>
+
+              </div>
+            </div>
+
+          </Carousel.Item>
+          <Carousel.Item>
+          <div className='background-section1 position-relative fluid-container'>
+              <div className='clip position-absolute '>
+              </div>
+              <div className=' section1-div  position-absolute  row w-100' >
+                <div className='container'>
+                  <div className='with-div'>
+                  <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
+                  <div className='border-red mb-2'></div>
+                  <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,
+                  ეს დაზღვევა თქვენთისაა.
+                </p>
                   </div>
+                
                 </div>
-              </Carousel.Caption>
-            </Carousel.Item>
-          </Carousel>
-        </div>
-      </React.Fragment>
-    );
+
+              </div>
+            </div>
+
+          </Carousel.Item>
+        </Carousel>
+      </div>
+
+    </React.Fragment>
+  );
 }

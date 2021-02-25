@@ -1,5 +1,5 @@
 .background-img{
-    background-image: url(../../../assets/images/pexels.svg); 
+    background-image: url(../../../assets/images/Pexels.svg); 
     background-color: #cccccc; 
     height: 310px; 
     background-position: center; 
@@ -23,7 +23,7 @@
 
 }
 .border-red{
-    border: 1px solid red;
+    border: 0.5px solid red;
 }
 .text-box{
     bottom: 10px;

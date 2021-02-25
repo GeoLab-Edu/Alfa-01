@@ -1,4 +1,3 @@
-// import Pexels from '../../../assets/images/pexels.svg';
 import Apple from '../../../assets/images/Apple.svg';
 import Android from '../../../assets/images/Android.svg';
 
@@ -8,7 +7,7 @@ import './style.css';
 export default function SectionSix() {
     return (
         <div className='fluid-container background-img  position-relative mt-5'>
-            <div className='clip-div position-relative   '>
+            <div className='clip-div position-relative'>
 
             </div>
             <div className='row two-box position-absolute w-100'>
@@ -21,7 +20,7 @@ export default function SectionSix() {
                             <p className='text-white'>და ისარგებლე ჩვენი სერვისებით უფრო მოხერხებულად</p>
                         </div>
                     </div>
-                    <div className='col-6 mr-0 '>
+                    <div className='col-6 mr-0 pr-0'>
                         <div className='App-store justify-content-end d-flex'>
                             <img src={Apple} alt="Logo" />
                         </div>
