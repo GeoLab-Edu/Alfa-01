@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 // import IMG from '../../../components/Header/images/home-photo.png';
+
 import './style.css';
 
 
@@ -22,8 +23,8 @@ export default function Section1() {
               <div className='clip position-absolute '>
               </div>
               <div className=' section1-div  position-absolute  row w-100' >
-                <div className='container'>
-                  <div className='with-div'>
+                <div className='container  '>
+                  <div className='with-div '>
                   <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
                   <div className='border-red mb-2'></div>
                   <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,

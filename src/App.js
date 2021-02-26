@@ -10,6 +10,7 @@ import Header from "./components/Header";
 
 import './App.css';
 import Home from "./screens/home/Home";
+import Auto from "./screens/auto/Auto";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Header />
         <Switch>
           <Route path="/Home" exact component={Home} />
+          <Route path="/Auto" exact component={Auto} />
           <Route path="/" isActive={(match, location) => {
             if (location.pathname === '/' || match) {
               return true

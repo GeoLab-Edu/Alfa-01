@@ -1,0 +1,10 @@
+.button-buy{
+    width: 254px;
+    height: 56px;
+    background-color: #E84F5B;
+    border-radius: 28px;
+    border: 0px;
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+}
