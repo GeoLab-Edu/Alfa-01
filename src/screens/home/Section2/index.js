@@ -23,42 +23,42 @@ export default function SectionTwo() {
     return (
         <div className="sectionOne container">
             <div className='title-sectionone text-center'>
-                <h1>შენთვის</h1>
-                <p className='mb-4'>ალფა მრავალფეროვან პროდუქტებს გთავაზობს შენი ქონებისა და პასუხისმგებლობის დასაზღვევად.
-                 შენზე მორგებული პირობების მისაღებად მიმართე აგენტს.</p>
+                <h1>{t('Data.SectionTwo.title.1')}</h1>
+                <p className='mb-4'>{t('Data.SectionTwo.title.2')}</p>
+                <p className='mb-4'>{t('Data.SectionTwo.title.3')}</p>
             </div>
             <div className='row'>
                 <div className='col-4 pr-0 text-center position-relative'>
                     <img src={IMG1} alt="img" />
-                    <p className='pt-2 '>ქონების დაზღვევა</p>
+                    <p className='pt-2 '>{t('Data.SectionTwo.insurance.1')}</p>
                     <div className='svgicon position-absolute'> <img src={SVG1} alt="img" /> </div>
                 </div>
                 <div className='col-4 pr-3 text-center position-relative '>
                     <img src={IMG2} alt="img" />
-                    <p className='pt-2'>ავტომობილის დაზღვევა</p>
+                    <p className='pt-2'>{t('Data.SectionTwo.insurance.2')}</p>
                     <div className='svgicon position-absolute'> <img src={SVG2} alt="img" /> </div>
                 </div>
                 <div className='col-4 pr-3 text-center position-relative'>
                     <img src={IMG3} alt="img" />
-                    <p className='pt-2'>სამოგზაურო დაზღვევა</p>
+                    <p className='pt-2'>{t('Data.SectionTwo.insurance.3')}</p>
                     <div className='svgicon position-absolute'> <img src={SVG3} alt="img" /> </div>
                 </div>
                 <div className='col-4 pr-0 pt-2 text-center position-relative'>
                     <img src={IMG4} alt="img" />
-                    <p className='pt-2 pb-0'>ჯანმრთელობის დაზღვევა</p>
+                    <p className='pt-2 pb-0'>{t('Data.SectionTwo.insurance.4')}</p>
                     <div className='svgicon position-absolute'> <img className='' src={SVG4} alt="img" /> </div>
                 </div>
 
                 <div className='col-4 pr-3 pt-2 text-center position-relative'>
                     <img src={IMG5} alt="img" />
-                    <p className='pt-2 pb-0'>საბანკო დაზღვევა</p>
+                    <p className='pt-2 pb-0'>{t('Data.SectionTwo.insurance.5')}</p>
                     <div className='position-absolute svgicon'>
                         <img src={SVGICON} alt="img" />
                     </div>
                 </div>
                 <div className='col-4 pr-3 pt-2 text-center'>
                     <img src={IMG6} alt="img" />
-                    <p className='pt-2 pb-0'>სხვა</p>
+                    <p className='pt-2 pb-0'>{t('Data.SectionTwo.insurance.6')}</p>
                     <div className='position-absolute svgicon'>
                         <img src={SVGICON6} alt="img" />
                     </div>

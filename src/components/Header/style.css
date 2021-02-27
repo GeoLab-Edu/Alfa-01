@@ -20,13 +20,13 @@
     position: fixed;
     width: 100%;
     height: 100px;
+    z-index: 10000 !important;
 }
 .ulLogo {
     width: 20%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    list-style: none;
     padding: 0;
     margin: 0;
 }
@@ -40,7 +40,6 @@
     padding-right: 0px;
 }
 .Nav-a {
-    text-decoration: none;
     color: #FFFFFF;
     font-size: 18px;
 }
@@ -58,15 +57,11 @@ nav ul li a:hover {
     align-items: center;
     background-color: #E84F5B !important;
     border-radius: 5px;
-    width: 116px;
+    width: 150px;
     height: 34px;
     text-align: center;
     font-size: 12px;
 }
-/* .headerLogo {
-    width: 38px;
-    height: 32px;
-} */
 button.btn.btn-primary {
     padding: 0;
     height: 35px;
@@ -93,16 +88,12 @@ button.btn.btn-primary {
     justify-content: center;
     align-items: center;
 }
-
 .EN {
     margin-right: 10px;
     padding: 2px 4px;
     background-color: transparent;
     border-radius: 2rem;
     border: 1.5px #FFFFFF solid;
-}
-.languageActive {
-    background-color: #E84F5B;
 }
 .GE {
     padding: 2px 4px;
@@ -121,17 +112,17 @@ button.btn.btn-primary {
 }
 .dropdown-menu {
     transition: all 1s ease;
-    transform: translate(-1240px, -10px);
+    transform: translate(-1050px, -100px);
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 5;
+    width: 1200px;
+    inset: 0 auto auto 50px !important;
 }
-/* .dropdown-menu[x-placement^=bottom], .dropdown-menu[x-placement^=left], .dropdown-menu[x-placement^=right], .dropdown-menu[x-placement^=top]{
-    right: auto !important;
-} */
 .Dropdown-div {
-    z-index: 1;
-    width: 1400px;
+    width: 100%;
+    z-index: 5;
     margin: auto auto;
     height: 600px;
     background-color: #fff !important;

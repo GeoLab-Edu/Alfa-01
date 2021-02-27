@@ -10,6 +10,7 @@ import Header from "./components/Header";
 
 import './App.css';
 import Home from "./screens/home/Home";
+import Contact from "./components/Contact";
 
 
 function App() {
@@ -17,14 +18,10 @@ function App() {
     <Router>
       <div className="App">
         <Header />
+        <Contact/>
         <Switch>
           <Route path="/Home" exact component={Home} />
-          <Route path="/" isActive={(match, location) => {
-            if (location.pathname === '/' || match) {
-              return true
-            }
-            return false
-          }} exact component={Home} />
+          <Route path="/" exact component={Home} />
         </Switch>
        
         <Footer />
