@@ -6,7 +6,7 @@
     z-index: 0;
 }
 .carousel-indicators {
-    z-index: 10000;
+    z-index: 1 !important;
     bottom: 5px !important;
    
 }

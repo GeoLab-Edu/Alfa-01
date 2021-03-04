@@ -12,7 +12,7 @@ import './style.css';
 function Header() {
 
     const { t, i18n } = useTranslation();
-
+    
     function handleClick(lang) {
         i18n.changeLanguage(lang);
     }
@@ -24,7 +24,7 @@ function Header() {
                     <div className="ulLogo">
                         <div>
                             <NavLink className="logo" to="/Home">
-                            <img className='headerimg' src={Headerlogo} alt="Logo" />
+                                <img className='headerimg' src={Headerlogo} alt="Logo" />
                             </NavLink>
                             
                         </div>

@@ -1,19 +1,19 @@
-
-
-
-
+import { useTranslation } from "react-i18next";
 import Scrollicon from "../../../assets/images/Scrollicon.svg";
 
 import './style.css';
 
-export default function Section3() {
+export default function Section5() {
+
+    const { t } = useTranslation();
+
     return (
         <div className='container pt-5'>
 
-            <p className='scroll-title'>ინდივიდუალური პაკეტები</p>
+            <p className='scroll-title'>{t('Data.SectionFive.1.title.1')}</p>
 
             <div className='scroll scroll-gray scroll-gray position-relative pb-4'>
-                <div class="d-flex position-absolute">
+                <div className="d-flex position-absolute">
 
                     <div className='box box-gray  p-3  ml-0'>
                         <div className='d-flex flex-column gray-div'>
@@ -22,10 +22,11 @@ export default function Section3() {
                             </div>
 
                             <div>
-                                <p className='scroll-box-title  text-white '>დისტანციური კონსულტაცია</p>
-                                <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                შესაძლებელია სატელეფონო ან ვიდეო
-                                კონსულტაციი...
+                                <p className='scroll-box-title  text-white '>{t('Data.SectionFive.1.text.1')}</p>
+                                <p className='text-white text-size'>
+                                    {t('Data.SectionFive.1.text.2')}
+                                    {t('Data.SectionFive.1.text.3')}
+                                    {t('Data.SectionFive.1.text.4')}
                                 </p>
                             </div>
 
@@ -39,10 +40,10 @@ export default function Section3() {
                             </div>
 
                             <div>
-                                <p className='scroll-box-title  text-white '>დასაქმებულთა დაზღვევა</p>
-                                <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                შესაძლებელია სატელეფონო ან ვიდეო
-                                კონსულტაციი...
+                                <p className='scroll-box-title  text-white '>{t('Data.SectionFive.1.text.1')}</p>
+                                <p className='text-white text-size'>
+                                    {t('Data.SectionFive.2.text.2')}
+                                    {t('Data.SectionFive.2.text.3')}
                                 </p>
                             </div>
 
@@ -56,10 +57,18 @@ export default function Section3() {
                             </div>
 
                             <div>
-                                <p className='scroll-box-title  text-white '>პირუტყვის დაზღვევა</p>
-                                <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                შესაძლებელია სატელეფონო ან ვიდეო
-                                კონსულტაციი...
+                                <p className='scroll-box-title  text-white '>{t('Data.SectionFive.3.text.1')}</p>
+                                <p className='text-white margin-bottom text-size'>
+                                    {t('Data.SectionFive.3.text.2')}
+                                </p>
+                                <p className='text-white margin-bottom text-size'>
+                                    {t('Data.SectionFive.3.text.3')}
+                                </p>
+                                <p className='text-white margin-bottom text-size'>
+                                    {t('Data.SectionFive.3.text.4')}
+                                </p>
+                                <p className='text-white margin-bottom text-size'>
+                                    {t('Data.SectionFive.3.text.5')}
                                 </p>
                             </div>
 

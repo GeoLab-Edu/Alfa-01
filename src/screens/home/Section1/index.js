@@ -23,13 +23,11 @@ export default function Section1() {
               <div className='clip position-absolute '>
               </div>
               <div className=' section1-div  position-absolute  row w-100' >
-                <div className='container  '>
-                  <div className='with-div '>
-                  <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
+                <div className='container'>
+                  <div className='with-div'>
+                  <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
                   <div className='border-red mb-2'></div>
-                  <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,
-                  ეს დაზღვევა თქვენთისაა.
-                </p>
+                  <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
                   </div>
                 
                 </div>
@@ -45,11 +43,9 @@ export default function Section1() {
               <div className=' section1-div  position-absolute  row w-100' >
                 <div className='container'>
                   <div className='with-div'>
-                  <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
+                  <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
                   <div className='border-red mb-2'></div>
-                  <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,
-                  ეს დაზღვევა თქვენთისაა.
-                </p>
+                  <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
                   </div>
                 
                 </div>
@@ -65,11 +61,9 @@ export default function Section1() {
               <div className=' section1-div  position-absolute  row w-100' >
                 <div className='container'>
                   <div className='with-div'>
-                  <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 100 ლარად</h2>
+                  <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
                   <div className='border-red mb-2'></div>
-                  <p className='text-white'>თუ თქვენ ფლობთ ბინას ან საკუთარ სახლს, რომლის საერთო ფართი არ აღემატება 120 კვ.მ.-ს,
-                  ეს დაზღვევა თქვენთისაა.
-                </p>
+                  <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
                   </div>
                 
                 </div>

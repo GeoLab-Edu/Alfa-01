@@ -12,6 +12,7 @@ import './App.css';
 import Home from "./screens/home/Home";
 import Auto from "./screens/auto/Auto";
 import PersonalCabnet from "./screens/Personal-cabnet/PersonalCabnet";
+import Contact from "./components/Contact";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
     <Router>
       <div className="App">
         <Header />
+        <Contact/>
         <Switch>
           <Route path="/Home" exact component={Home} />
           <Route path="/Auto" exact component={Auto} />

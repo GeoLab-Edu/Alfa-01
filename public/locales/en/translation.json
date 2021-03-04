@@ -6,6 +6,10 @@
             "3":"COMPANY",
             "4":"PERSONAL CABNET"
         },
+        "Contact": {
+            "1": "Online Consultation",
+            "2": "Search"
+        },
         "Dropdown": {
             "Section1": {
                 "1":"Agro",
@@ -51,15 +55,86 @@
             }
         },
         "SectionThree":{
-            "offer":{
-                "offer":"OTHER OFFERS"
+            "1": {
+                "title":{
+                    "1":"OTHER OFFERS"
+                },
+                "text":{
+                    "1":"online",
+                    "2":"consultation",
+                    "3":"pleasing news from alpha, now you",
+                    "4":"can get a consultation online"
+                }
             },
-            "cards":{
-                "1":"online",
-                "2":"consultation",
-                "3":"pleasing news from alpha, now you",
-                "4":"can get a consultation online"
+            "2": {
+                "text":{
+                    "1":"fire",
+                    "2":"insurance",
+                    "3":"Fire insurance protects you financially",
+                    "4":"from the renovation and engineering",
+                    "5":"equipment damage caused by fire."
+                }
+            },
+            "3": {
+                "text":{
+                    "1":"you can",
+                    "2":"insure:",
+                    "3":"Renovation",
+                    "4":"Furniture",
+                    "5":"Appliances"
+                }
             }
+        },
+        "SectionFour":{
+            "1": {
+                "title":{
+                    "1":"FOR BUSSINES"
+                },
+                "text":{
+                    "1":"Is your business secured? Do you know how much your business protection will cost? Alpha provides insurance coverages for more than ten thousand small entrepreneurs. We offer you coverages meeting your special needs. Alpha is recommended by 93% of our users."
+                }
+            },
+            "2": {
+                "1":{
+                    "1":"HARVEST INSURANCE"
+                },
+                "2":{
+                    "1":"CARGO INSURANCE"
+                }
+            }
+        },
+        "SectionFive":{
+            "1": {
+                "title":{
+                    "1":"EXCLUSIVE PRODUCTS"
+                },
+                "text":{
+                    "1":"Employer Liability Insurance",
+                    "2":"Employer Liability Insurance provides",
+                    "3":"financial protection for both the employer",
+                    "4":"and the employee."
+                }
+            },
+            "2": {
+                "text":{
+                    "1":"Harvest Insurance",
+                    "2":"Harvest Insurance for companies working",
+                    "3":"in the agro sector."
+                }
+            },
+            "3": {
+                "text":{
+                    "1":"Cattle Insurance",
+                    "2":"Transport Crash",
+                    "3":"Wounds",
+                    "4":"Death due to hernia and complicated delivery",
+                    "5":"Death due to natural Disasters"
+                }
+            }
+        },
+        "SectionSix": {
+            "1":"DOWNLOAD FREE FOR IPHONE & ANDROID",
+            "2":"To help provide the best possible experience"
         },
         "Footer":{
             "Individual":{
