@@ -1,0 +1,10 @@
+.cabnet-title{
+    font-size: 25px;
+    /* border-bottom: 1px solid red; */
+}
+.background-red{
+    background-image: url(../../../assets/images/Background-red.svg); 
+    background-position: right; 
+    background-repeat: no-repeat; 
+    
+}

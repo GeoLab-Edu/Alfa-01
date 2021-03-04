@@ -21,7 +21,7 @@ export default function Section4() {
 
                             <div className='box box-gray  p-3  ml-0 position-absolute car-box-gray '>
                                 <div className='d-flex flex-column gray-div'>
-                                    <div className=' d-flex align-self-start scroll-logo '>
+                                    <div className=' d-flex align-self-start scroll-logo'>
                                         <img src={Scrollicon} alt="Logo" />
                                     </div>
 

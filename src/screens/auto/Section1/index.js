@@ -12,8 +12,8 @@ export default function Section1(){
               <div className='clip position-absolute '>
               </div>
               <div className=' section-auto  position-absolute  row w-100' >
-                <div className='container  '>
-                  <div className='with-div '>
+                <div className='container '>
+                  <div className='with-div'>
                   <h2 className='text-white mb-2'>დააზღვიე სახლი თვეში 60 ლარად</h2>
                   <div className='border-red mb-2'></div>
                   <p className='text-white'>ისარგებლეთ სერვისებით ნებისმიერ, დროს 24 საათიანი ასისტანსი.

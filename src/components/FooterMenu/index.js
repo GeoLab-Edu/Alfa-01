@@ -9,6 +9,7 @@ export default function FooterMenu(props) {
         <h6 key="title">{props.title}</h6>
         {props.items.map(item => {
             return <p>{item}</p>
+            
         })}
     </div>
 }

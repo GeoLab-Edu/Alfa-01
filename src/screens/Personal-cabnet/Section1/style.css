@@ -1,0 +1,31 @@
+.cabnet-background {
+    background-image: url(../../../assets/images/Cabnetimg.svg); 
+    background-color: #cccccc; 
+    height: 385px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;      
+}
+.clip-div-cabnet{
+    height: 82px;
+    width: 40% !important;
+    background-color: #000;
+    opacity: 34%;
+    top: 17%;
+    border-radius: 5px;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 100% 0, 96% 100%, 0 100%, 0% 70%, 0% 30%);
+
+}
+.main-link{
+    top: 21%;
+}
+.cabnet-section-row{
+    margin-top:  -6%;
+    margin-bottom: 39px;
+}
+.display-text{
+    font-size: 15px;
+}
+.display-name{
+    font-size: 32px ;
+}

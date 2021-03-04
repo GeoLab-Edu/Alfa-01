@@ -1,0 +1,67 @@
+.dropdown-box{
+   
+    border-bottom: 1px solid #fff;
+}
+.dropdown-box img{
+    height: 43px;
+}
+.cabnet-background-box1{
+    background-image: url(../../../assets/images/Cabnetimg1.png); 
+    background-color: #cccccc; 
+    /* height: 385px;  */
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+}
+.cabnet-background-box2{
+    background-image: url(../../../assets/images/Box2.png); 
+    background-color: #cccccc; 
+    /* height: 385px;  */
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+}
+
+.cabnet-background-box3{
+   
+    background-color: #ED939A; 
+    /* height: 385px;  */
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+}
+.bg-white-box1{
+   
+    border-radius: 10px;
+}
+.bg-white-box1 img{
+  
+   height: 30px;
+}
+.text-white-title{
+    font-size: 25px;
+}
+.color-text{
+    color: #5C656B;
+    font-size: 17px;
+}
+.color-text1{
+    font-size: 20px;
+}
+
+.pay-title{
+    text-align: left;
+    height: 30px;
+}
+.cabneticon{
+    margin-right: 15px !important;
+}
+.pay-row{
+    margin-top: 30px;
+}
+
+
+
