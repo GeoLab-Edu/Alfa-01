@@ -18,10 +18,10 @@ export default function Pay(props) {
     return (
         <div className=' pay-row'>
 
-            <div className={`cabnet-background-${props.background}`}>
+            <div className={`cabnet-background-${props.background}`}> 
                 <div className='cabnet-white-box p-4'>
                     <div className='d-flex  dropdown-box justify-content-between align-items-center '>
-                        <div className='d-flex '><img src={Hauseicon} alt="img" /> </div>
+                        <div className='d-flex hauseicon '><img src={Hauseicon} alt="img" /> </div>
                         <div className='d-flex'><p className='m-0 text-white text-white-title'>ქონების დაზღვევა </p></div>
                         <a className='d-flex text-white' onClick={() => {
                             setExpanded(!expanded)

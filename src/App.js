@@ -13,6 +13,7 @@ import Home from "./screens/home/Home";
 import Auto from "./screens/auto/Auto";
 import PersonalCabnet from "./screens/Personal-cabnet/PersonalCabnet";
 import Contact from "./components/Contact";
+import CompanyPage from "./screens/Company-page/CompanyPage";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path="/Home" exact component={Home} />
           <Route path="/Auto" exact component={Auto} />
           <Route path="/personal-cabnet" exact component={PersonalCabnet} />
+          <Route path="/Company-page" exact component={CompanyPage} />
           <Route path="/" isActive={(match, location) => {
             if (location.pathname === '/' || match) {
               return true

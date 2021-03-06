@@ -1,0 +1,18 @@
+.background-Companipage{
+    background-image: url(../../../assets/images/Companypage.svg); 
+    background-color: #cccccc; 
+    height: 700px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    
+}
+.link-add{
+    bottom: 400px;
+    width: 20%;
+  
+}
+.with-div{
+    width: 60%;
+   
+}

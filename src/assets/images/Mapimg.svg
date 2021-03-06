@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="739" viewBox="0 0 1366 739">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_369" data-name="Rectangle 369" width="1366" height="739" transform="translate(4916 2619)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_251" x="1054" y="180.154" width="254" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-2" x="933" y="267.154" width="254" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-3" x="899" y="95.154" width="254" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-4" x="228" y="109.154" width="244" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-5" x="180" y="28.654" width="226" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-6" x="450" y="169.154" width="275" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-7" x="382" y="237.154" width="243" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-8" x="277" y="400.154" width="264" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-9" x="804" y="344.154" width="254" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_251-10" x="777" y="151.154" width="235" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-4916 -2619)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_368" data-name="Rectangle 368" width="1366" height="739" transform="translate(4916 2619)" fill="#fff"/>
+    <g id="Group_406" data-name="Group 406" transform="translate(4803.25 2601.839)">
+      <g id="Group_266" data-name="Group 266" transform="translate(0 0)">
+        <path id="Path_143" data-name="Path 143" d="M745.571,860.071c7.789-12.735,15.545-25.491,23.419-38.174.757-1.22,2.179-2.763,3.391-2.854,11.48-.857,13.992-10.1,17.441-18.341,1.057-2.527.411-6.047,1.944-8.048,14.15-18.5,6.3-39.792,7.775-59.823.556-7.557-6.189-12.718-10.073-18.6-3.271-4.948-3.14-8.386,1.243-12.085a16.011,16.011,0,0,0,3.592-4.189c1.988-3.5,2.716-6.628-1.48-9.7-5.29-3.87-5.31,1.833-7.445,3.532-1.109.882-1.719,2.388-2.623,3.71-5.067-5.379-6.773-10.428-6.043-17.994,1.4-14.5-3.479-28.541-10.284-41.219-7.494-13.957-11.126-28.306-10.036-43.983.482-6.941-.171-13.659-3.52-20-4.1-7.767-4.1-16.581-5.974-24.918-3.324-14.785-11.918-24.954-27.323-26.96-12.475-1.625-22.506-9.728-35.385-10.934-6.547-.612-12.088-9.1-12.457-17.082-.533-11.548-7.773-19.9-12.576-29.382-1.412-2.788-5.088-2.831-8.436-2.864-3.927-.039-7.792,4.809-11.283,1.183-3.6-3.736-7.488-8.211-8.7-13-3-11.825-9.649-16.142-21.8-17.071-10.769-.823-21.166-4.8-32.343-1.8-3.632.974-7.107-2.21-9.554-5.129A17.053,17.053,0,0,0,555,417.932c-6.35-.571-11.738-2.4-16.008-7.89-2.594-3.339-7.895-5.8-11.7-2.534-5.647,4.854-7.053.542-9.655-2.83a29.887,29.887,0,0,1-5.971-15.5c-1.444-14.457-8.858-21.737-22.532-28.075-11.5-5.33-25.56-8.348-34.074-19.589,5.171-6.448,7.7-14.667,9.857-21.927,5.628-18.91,17.776-25.68,36.218-27.173,12.238-.991,22.749,2.323,33.285,7.166,9.1,4.184,17.815,9.146,27.461,12.243,7.328,2.353,13.049,1.875,18.594-4.177,7.423-8.1,15.284-7.069,20.76,2.25,3.035,5.162,8.32,6.607,13.129,8.431,13.125,4.979,24.356,12.506,34.613,22.023,9.074,8.418,19.827,13.125,32.66,9.386,7.9-2.3,14.465.731,19.784,5.82,6.619,6.332,13.552,8.19,22.294,5.395,7.532-2.41,13.561-.632,16.274,7.8,1.194,3.717,3.8,5.884,7.766,7.368,7.94,2.974,14.514,7.394,19.293,15.328,5.12,8.5,15.392,4.807,23.247,5.082,5.973.209,11.515-.872,16.895,2.922,4.639,3.272,10.352,2.876,15.517,1.695,10.366-2.372,20.073-2.351,29.98,2.544,11.886,5.873,19.391,4.117,28.43-5.671,2.621-2.838,5.173-4.114,8.9-3.953,15.635.676,31.355-1.232,46.928,1.765,2.809.541,5.821.425,7.662,2.861,6.873,9.092,17.344,12.98,26.546,18.755,4.087,2.564,6.741,2.479,10.676-.679,6.621-5.313,14.542-6.665,23.1-4.927,5.17,1.051,11.775-.722,15.606,1.883,10.482,7.13,20.012,15.462,32.871,18.521,2.368.563,4.974,4.946,3.792,6.906-5.271,8.739,2.633,9.46,6.587,13.718,6.714,7.23,13.1,14.718,20.711,21.069,1.672,1.395,3.4,3.98,5.056,3.937,12.027-.308,22.692,3.419,33.824,7.8,19.046,7.493,41.456,7.259,55.332,25.929,3.256,4.382,8.048,6.574,13.9,6.755a38.377,38.377,0,0,1,11.884,2.54c13.844,5.123,15.3,14.438,4.1,23.966-2.342,1.994-4.032,4.727-6.2,6.945-2.943,3.007-3.984,6.463-2.257,10.265,1.639,3.608,5.372,3.2,8.3,2.756,10.006-1.5,17.522,3.432,24.822,8.959,4.674,3.539,8.981,3.47,11.949-1.6,6.035-10.3,15.548-13.078,26.443-12.719,9.527.316,17.347-.112,21.507-11.437,3.543-9.644,11.73-15.139,23.23-13.059,5.532,1,10.437-1.219,15.138-3.984,30.264-17.808,59.15-8.064,72.615,25.812-.257-10.236,4.423-17.643,6.788-25.731,3-10.26,18.981-13.461,27.682-6.348,3.146,2.572,5.734,5.826,8.9,8.37,4.753,3.819,9.492,6.536,16.127,2.785,8.46-4.782,16.6-2.9,22.643,4.626,9.766,12.153,21.4,22.87,29.039,36.651,2.254,4.065,4.786,5.237,9.133,3.459,21.057-8.606,41.413-5.1,61.777,3.089,11.049,4.442,15.569,12.906,11.384,23.959-6.513,17.2-11.1,35.068-18.507,51.966-2.4,5.478-.8,9.456,5.688,11.278,8.494,2.384,16.5,5.8,21.805,13.594,2.213,3.255,5.633,4.692,9.788,4.544,12.546-.447,20.772,5.159,23.936,17.517,1.028,4.016,1.978,7.9,6.9,2.916,1.511-1.531,3.367-1.448,5.048,0,.474.41.917,1.167,1.409,1.2,7.935.485,15.444.734,19.922,9.633,1.2,2.383,7.763.089,11.522-1.377,10.3-4.017,17.885.463,23.779,8.012,3.9,5,7.7,7.658,14.226,6.336,5.767-1.169,10.419,1.649,13.891,6.03,4.613,5.823,10.16,8.9,17.828,7.924,5.893-.749,8.205,3.085,9.718,8.063,3.486,11.472,6.514,12.029,17.108,6.552,7.295-3.771,16.052-4.694,19.3-14.12.953-2.767,4.107-2.107,6.571-.822,3.558,1.856,8.374,2.959,7.829,8.13-.825,7.826,3.745,14.33,4.915,21.72.755,4.774,6.147,9.607,13.444,8.6,12.2-1.69,13.536-.693,13.756,10.97.123,6.507,2.616,10.7,8.612,12.96,2.032.767,4.933,1.481,3.673,4.242-1.248,2.741-4.87,2.331-6.67,1.191-5.774-3.657-12.082-7.484-11.39-15.712.558-6.629-1.968-8.6-8.565-8.359-10.8.391-18.575-6.531-19.538-17-.578-6.283-5.319-11.419-4.346-18.061.232-1.59-1.5-2.721-3.168-2.892-2.012-.207-2.609,1.623-3.088,2.949-2.28,6.318-6.169,9.924-13.384,8.916-2.74-.382-4.58,1.522-6.506,3.207-7.976,6.978-18.877,4.051-22.93-6.095-1.619-4.053-1.285-8.863-8.474-8.884-6.871-.02-10.426,2.279-12.677,8.267-3.72,9.891-13.273,15.609-18.111,24.893-2.283,4.381-7.689,3.093-12.087,2.213-11.139-2.231-13.211-.362-13.7,10.983-.352,8.253.6,16.115,4.463,23.509,7.989-4.925,15.041-.4,15.9,11.518,1.007,13.907,8.2,21.386,21.3,24.218a3.238,3.238,0,0,1,1.73.689c13.431,16.115,38.235,14.994,50.429,33.17,3.255,4.853,7.85,8.815,11.842,13.175a6.551,6.551,0,0,1,.663,8.649c-6.882,9.081-8.344,19.822-10.223,30.473-1.712,9.7-3.638,18.881-17.113,17.145-3.825-.493-5.45,2.5-5.418,6.139.042,4.774-1.249,9.137-6.366,10.175a10.685,10.685,0,0,1-12.246-6.707c-1.928-4.632-4.5-6.319-9.159-5.908-7.916.7-13.872-4.553-17.173-9.7-9.184-14.31-22.751-17.455-37.916-18.314a4.131,4.131,0,0,0-4.47,2.712c-3.882,10.381-12.489,8.689-20.581,7.934-11.184-1.043-21.952-5.195-32.223-8.583-11.468-3.782-23.321-10.2-32.344-19.455-6.153-6.311-4.138-11.437,6.538-18.224-2.292-3.225-5.729-2.171-8.653-1.981-7.51.489-13.759-2.492-20.562-5.178-8.819-3.482-18.386-4.8-24.841-12.871-.76-.951-3.869-.975-5.319-.269-5.026,2.448-9.017.287-13.292-1.9-13.846-7.083-21.326-6.171-33.167,4.37-9.5,8.462-18.78,17.185-28.019,25.937a25.864,25.864,0,0,1-9.276,6.084c6.807,5.5,9.276,11.873,5.309,19.77-2.611,5.2,1.422,5.607,4.451,4.731,11.592-3.35,18.052,4.1,24.6,11.16,5.528,5.961,4.225,9.73-3.851,11.74-3.923.976-8.022,1.948-12.006,1.818-5.9-.191-8.454,2.457-9.738,7.818-.809,3.373-1.261,6.874,2.1,8.137,4.143,1.558,3.917-3.123,4.883-5.3,2.309-5.2,6.611-6.7,11.455-6.109,4.512.548,4.969,3.9,3.55,7.835-.292.812.909,3.107,1.323,3.082,7.386-.443,12.576,11.244,21.289,3.765,1.647-1.414,5.238-1.344,6.062.46,3.974,8.689,7.7,3.278,11.663.256a16.4,16.4,0,0,1,4.1-2.257c4.672-1.764,9.539-1.925,13.367,1.424,4.215,3.687.152,7.32-1.95,11.488,7.879,1.29,14.353,2.835,12.5,13.213-.566,3.171,6.164,5.511,9.961,7.6,3.657,2.01,7.026,4.24,8.837,8.08a3.926,3.926,0,0,1-.463,3.363,2.011,2.011,0,0,1-3.231-.258c-4.145-5.408-10.985-7.171-15.741-11.728-3.548-3.4-7.864-6.4-4.643-13.882a45.485,45.485,0,0,0-4.762,2.907c-3.224,2.814-6.714,5.619-10.569,1.6-3.546-3.7-.964-7.506.952-11.169,1.192-2.282,5.71-3.921,3.284-6.7-2.1-2.412-5.722-.845-8.6.9-6.229,3.784-12.145,11.251-19.861,1.358-.663-.852-9.2,2.742-9.327,7.413-.205,7.541-3.525,10.246-10.315,10.034-6.6-.205-9.839-4.869-10.069-10.385-.255-6.122,3.652-9.782,10.822-9.3-8.09-1.026-9.823-6.647-10.171-13.156-5.455.136-4.547,4.838-6.078,7.453-1.743,2.98-3.636,5.238-7.321,4.563-3.469-.635-7.1-1.9-8.09-5.595-3.3-12.385,3.03-23.505,14.46-22.871,4.06.226,10.874,1.619,11.331-3.016.422-4.269-5.872-7.481-9.8-10.488-2.61-2-5.408.346-8.117.723-11.534,1.6-14.978-2.257-11.4-12.869,1.356-4.026,1.994-7.476-2.223-10.781-4.475-3.506-6.587-.181-9.623,1.817-8.607,5.663-17.1,4.368-25.3-1.51-1.895,4.373,1.783,6.1,3.17,8.5,4.222,7.318,2.616,11.327-5.985,11.07-12.37-.37-25.057,2.888-37.1-2.963-3.422-1.662-6.123-.173-8.157,3.8-4.953,9.689-7.3,10.267-16.252,4.927-2.32-1.385-3.6-.836-5.822.041-8.368,3.292-16.721,5.248-23.734-3.207-2.854-3.439-6.57-3.517-9.928-.462-7.2,6.546-13.37,4.077-19.734-1.536-3.281-2.894-7.139-11.2-10.187,1.3-1.7,6.985-10.165,9.171-17.416,7.218-5.323-1.435-9.461-.952-14.1,1.906-8.755,5.393-18.747,3.975-28.418,4.151-3.014.055-7.036-1.314-8.677,2.006-7.269,14.691-20.6,9.526-31.418,8.539-8.76-.8-18.326.923-26.626-4.278-2.332-1.462-4.738.47-6.607,2.346a16.534,16.534,0,0,1-6.009,4.353c-3.515,1.285-9.781-2.906-10.25,4.524-.624,9.886,4.042,17.721,11.471,19.736,15.808,4.286,27.223,13.621,33.673,28.743.94,2.2,3.039,5.068.029,6.612-3.31,1.7-3.844-1.758-4.851-3.992-5.993-13.288-15.685-22.036-30.108-25.964-12.754-3.474-20.247-22.135-13.344-33.392,3.176-5.18,2.093-8.53-2.117-10.919-5.758-3.267-9.184-10.569-17.506-9.627-4.143.469-7.61.907-11.024,3.966-7.7,6.9-13.837,4.766-15.776-5.153-1.3-6.653-5.217-10.4-11.6-11.756-2.858-.606-6.552.916-7.359-3.76-.75-4.346,1.934-6.188,5.211-7.8,2.211-1.09,4.336-2.355,7.141-3.892-19.778-6.624-34.337-18.786-45.093-35.462-3.416-5.3-9.306-7.243-13.471-11.416-1.547-1.55-3.526-1.842-4.933-.09-5.334,6.641-9.7,1.91-13.133-1.655-3.75-3.893-7.1-7.943-2.382-14.589,7.048-9.927,5.814-11.388-6.33-11.5-7.221-.066-14.447-.328-21.66-.136-10.294.275-14.977,4.423-16.154,14.425-1.11,9.432-9.063,15-13,22.9-2.282,4.58-9.991,2.274-15.633.868-15.489-3.86-29.323-12.028-45.687-14.428-12.164-1.784-23.673-3.546-35.735-1.255a6.415,6.415,0,0,1-4.526-.817c-10.3-7.623-17.107-4.093-22.154,6.377-.771,1.6-2.569,2.71-3.9,4.035-10.984,10.9-10.374,10.182-21.959.332-5.705-4.851-12.454-10.808-21.9-8.257-5.085,1.373-8.889-2.253-12.693-4.977C757.563,858.631,752,856.346,745.571,860.071Zm798.2,139.418-.882,1.35a5.643,5.643,0,0,0,1.277.234c.162,0,.49-.495.434-.6A5.68,5.68,0,0,0,1543.767,999.49Z" transform="translate(-405.135 -259.082)" fill="#dedede"/>
+        <path id="Path_144" data-name="Path 144" d="M1541.55,999.631a5.344,5.344,0,0,1,.778.925c.053.1-.255.561-.407.566a5.291,5.291,0,0,1-1.2-.22Z" transform="translate(-402.312 -257.375)" fill="#eee"/>
+      </g>
+    </g>
+    <line id="Line_23" data-name="Line 23" y1="183" transform="translate(6106 2878.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_24" data-name="Line 24" y1="91" transform="translate(5429 3058.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_25" data-name="Line 25" y1="183" transform="translate(5486 2850.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_26" data-name="Line 26" y1="83" transform="translate(5410 2893.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_27" data-name="Line 27" y1="183" transform="translate(5197 2709.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_28" data-name="Line 28" y1="183" transform="translate(5213 2770.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_29" data-name="Line 29" y1="183" transform="translate(6014 2953.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_30" data-name="Line 30" y1="271" transform="translate(5933 2790.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_31" data-name="Line 31" y1="147" transform="translate(5844 3010.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <line id="Line_32" data-name="Line 32" y1="198" transform="translate(5788 2920.154)" fill="none" stroke="#e84f5b" stroke-width="1"/>
+    <g id="Group_407" data-name="Group 407" transform="translate(4849 1296.154)">
+      <g transform="matrix(1, 0, 0, 1, 67, 1322.85)" filter="url(#Rectangle_251)">
+        <rect id="Rectangle_251-11" data-name="Rectangle 251" width="236" height="56" rx="10" transform="translate(1063 186.15)" fill="#fff"/>
+      </g>
+      <text id="ლაგოდეხი" transform="translate(1241 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-51.92" y="0">ლაგოდეხი</tspan></text>
+      <text id="კოსტავას_ქ._15" data-name="კოსტავას ქ. 15" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">კოსტავას ქ. 15</tspan></text>
+    </g>
+    <g id="Group_408" data-name="Group 408" transform="translate(4728 1383.154)">
+      <g transform="matrix(1, 0, 0, 1, 188, 1235.85)" filter="url(#Rectangle_251-2)">
+        <rect id="Rectangle_251-12" data-name="Rectangle 251" width="236" height="56" rx="10" transform="translate(942 273.15)" fill="#fff"/>
+      </g>
+      <text id="გურჯაანი" transform="translate(1248 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-45.27" y="0">გურჯაანი</tspan></text>
+      <text id="გავისუფლების_ქუჩა" data-name="გავისუფლების ქუჩა" transform="translate(1164 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">გავისუფლების ქუჩა</tspan></text>
+    </g>
+    <g id="Group_409" data-name="Group 409" transform="translate(4694 1211.154)">
+      <g transform="matrix(1, 0, 0, 1, 222, 1407.85)" filter="url(#Rectangle_251-3)">
+        <rect id="Rectangle_251-13" data-name="Rectangle 251" width="236" height="56" rx="10" transform="translate(908 101.15)" fill="#fff"/>
+      </g>
+      <text id="ლაგოდეხი-2" data-name="ლაგოდეხი" transform="translate(1241 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-51.92" y="0">ლაგოდეხი</tspan></text>
+      <text id="კოსტავას_ქ._15-2" data-name="კოსტავას ქ. 15" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">კოსტავას ქ. 15</tspan></text>
+    </g>
+    <g id="Group_410" data-name="Group 410" transform="translate(4014 1225.154)">
+      <g transform="matrix(1, 0, 0, 1, 902, 1393.85)" filter="url(#Rectangle_251-4)">
+        <rect id="Rectangle_251-14" data-name="Rectangle 251" width="226" height="56" rx="10" transform="translate(237 115.15)" fill="#fff"/>
+      </g>
+      <text id="სენაკი" transform="translate(1241 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-31" y="0">სენაკი</tspan></text>
+      <text id="ჭავჭავაძის_95" data-name="ჭავჭავაძის #95" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">ჭავჭავაძის #95</tspan></text>
+    </g>
+    <g id="Group_411" data-name="Group 411" transform="translate(3966 1144.654)">
+      <g transform="matrix(1, 0, 0, 1, 950, 1474.35)" filter="url(#Rectangle_251-5)">
+        <rect id="Rectangle_251-15" data-name="Rectangle 251" width="208" height="56" rx="10" transform="translate(189 34.65)" fill="#fff"/>
+      </g>
+      <text id="ზუგდიდი" transform="translate(1241 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-42.66" y="0">ზუგდიდი</tspan></text>
+      <text id="დადიანის_2" data-name="დადიანის #2" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">დადიანის #2</tspan></text>
+    </g>
+    <g id="Group_412" data-name="Group 412" transform="translate(4236 1285.154)">
+      <g transform="matrix(1, 0, 0, 1, 680, 1333.85)" filter="url(#Rectangle_251-6)">
+        <rect id="Rectangle_251-16" data-name="Rectangle 251" width="257" height="56" rx="10" transform="translate(459 175.15)" fill="#fff"/>
+      </g>
+      <text id="ზესტაფონი" transform="translate(1268 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-53.7" y="0">ზესტაფონი</tspan></text>
+      <text id="აღმაშენებლის_10" data-name="აღმაშენებლის #10" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">აღმაშენებლის #10</tspan></text>
+    </g>
+    <g id="Group_413" data-name="Group 413" transform="translate(4168 1353.154)">
+      <g transform="matrix(1, 0, 0, 1, 748, 1265.85)" filter="url(#Rectangle_251-7)">
+        <rect id="Rectangle_251-17" data-name="Rectangle 251" width="225" height="56" rx="10" transform="translate(391 243.15)" fill="#fff"/>
+      </g>
+      <text id="ქუთაისი" transform="translate(1241 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-39.6" y="0">ქუთაისი</tspan></text>
+      <text id="ჭავჭავაძის_34" data-name="ჭავჭავაძის #34" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">ჭავჭავაძის #34</tspan></text>
+    </g>
+    <g id="Group_414" data-name="Group 414" transform="translate(4043 1516.154)">
+      <g transform="matrix(1, 0, 0, 1, 873, 1102.85)" filter="url(#Rectangle_251-8)">
+        <rect id="Rectangle_251-18" data-name="Rectangle 251" width="246" height="56" rx="10" transform="translate(286 406.15)" fill="#fff"/>
+      </g>
+      <text id="ახალციხე" transform="translate(1282 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-46.76" y="0">ახალციხე</tspan></text>
+      <text id="დიდმამიშვილის_2_4" data-name="დიდმამიშვილის # 2/4" transform="translate(1189 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">დიდმამიშვილის # 2/4</tspan></text>
+    </g>
+    <g id="Group_415" data-name="Group 415" transform="translate(4599 1460.154)">
+      <g transform="matrix(1, 0, 0, 1, 317, 1158.85)" filter="url(#Rectangle_251-9)">
+        <rect id="Rectangle_251-19" data-name="Rectangle 251" width="236" height="56" rx="10" transform="translate(813 350.15)" fill="#fff"/>
+      </g>
+      <text id="რუსთავი" transform="translate(1248 1531)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-42.32" y="0">რუსთავი</tspan></text>
+      <text id="მესხიშვილის_4" data-name="მესხიშვილის #4" transform="translate(1180 1554)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">მესხიშვილის #4</tspan></text>
+    </g>
+    <g id="Group_416" data-name="Group 416" transform="translate(4572 1329.154)">
+      <g transform="matrix(1, 0, 0, 1, 344, 1289.85)" filter="url(#Rectangle_251-10)">
+        <rect id="Rectangle_251-20" data-name="Rectangle 251" width="217" height="130" rx="10" transform="translate(786 157.15)" fill="#fff"/>
+      </g>
+      <text id="თბილისი" transform="translate(1239 1473)" fill="#e84f5b" font-size="20" font-family="BPGNinoMediumCaps, BPG Nino Caps"><tspan x="-43.46" y="0">თბილისი</tspan></text>
+      <text id="მიცკევიჩის_23" data-name="მიცკევიჩის #23" transform="translate(1178 1566)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">მიცკევიჩის #23</tspan></text>
+      <text id="ალ_ყაზბეგის_16" data-name="ალ, ყაზბეგის #16" transform="translate(1171 1500)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">ალ, ყაზბეგის #16</tspan></text>
+      <text id="ალ_ყაზბეგის_27_ბ" data-name="ალ, ყაზბეგის #27 ბ" transform="translate(1164 1533)" fill="#5c656b" font-size="18" font-family="FiraGO-Regular, FiraGO" letter-spacing="-0.025em"><tspan x="0" y="0">ალ, ყაზბეგის #27 ბ</tspan></text>
+    </g>
+    <path id="Path_203" data-name="Path 203" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(4515 728.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_204" data-name="Path 204" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(4420 800.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_205" data-name="Path 205" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(4340 722.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_206" data-name="Path 206" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(4253 821.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_207" data-name="Path 207" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(3834 813.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_208" data-name="Path 208" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(3623 617.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_209" data-name="Path 209" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(3603 557.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_210" data-name="Path 210" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(3892 699.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_211" data-name="Path 211" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(3819 640.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <path id="Path_212" data-name="Path 212" d="M1610,2336h-25.985a5.857,5.857,0,0,0-5.015,6.079v14.588s.912,4.1,5.015,4.559,15.5,0,15.5,0a4.842,4.842,0,0,0,4.559-3.951C1604.985,2353.323,1610,2336,1610,2336Z" transform="translate(4199 779.555)" fill="none" stroke="#e84f5b" stroke-width="5"/>
+    <g id="room-24px_1_" data-name="room-24px (1)" transform="translate(5747 3123.154)">
+      <path id="Path_155" data-name="Path 155" d="M0,0H34V34H0Z" fill="none"/>
+      <path id="Path_156" data-name="Path 156" d="M17,2C10.366,2,5,6.7,5,12.5,5,20.375,17,32,17,32S29,20.375,29,12.5C29,6.7,23.634,2,17,2Zm0,14.25a4.046,4.046,0,0,1-4.286-3.75A4.046,4.046,0,0,1,17,8.75a4.046,4.046,0,0,1,4.286,3.75A4.046,4.046,0,0,1,17,16.25Z" fill="#e84f5b"/>
+    </g>
+  </g>
+</svg>
