@@ -56,3 +56,7 @@ bottom: 120px;
 .with-div{
     width: 55%;
 }
+.with-div-text{
+    margin: 0px !important;
+    margin-left: 15px !important;
+}

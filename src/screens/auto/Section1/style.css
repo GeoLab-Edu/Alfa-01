@@ -11,3 +11,10 @@
 .section-auto{
     bottom: 140px;
 }
+
+.with-div-auto{
+    width: 64% !important;
+}
+.link-a-auto{
+    bottom: 350px;
+}

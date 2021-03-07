@@ -24,12 +24,15 @@ export default function Section1() {
               </div>
               <div className=' section1-div  position-absolute  row w-100' >
                 <div className='container'>
-                  <div className='with-div'>
-                  <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
-                  <div className='border-red mb-2'></div>
-                  <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
+                  <div className='with-div  '>
+                    <div className='with-div-text'>
+                      <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
+                      <div className='border-red mb-2'></div>
+                      <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
+                    </div>
+
                   </div>
-                
+
                 </div>
 
               </div>
@@ -37,17 +40,19 @@ export default function Section1() {
 
           </Carousel.Item>
           <Carousel.Item>
-          <div className='background-section1 position-relative fluid-container'>
+            <div className='background-section1 position-relative fluid-container'>
               <div className='clip position-absolute '>
               </div>
               <div className=' section1-div  position-absolute  row w-100' >
                 <div className='container'>
                   <div className='with-div'>
-                  <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
-                  <div className='border-red mb-2'></div>
-                  <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
+                  <div className='with-div-text'>
+                      <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
+                      <div className='border-red mb-2'></div>
+                      <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
+                    </div>
                   </div>
-                
+
                 </div>
 
               </div>
@@ -55,17 +60,19 @@ export default function Section1() {
 
           </Carousel.Item>
           <Carousel.Item>
-          <div className='background-section1 position-relative fluid-container'>
+            <div className='background-section1 position-relative fluid-container'>
               <div className='clip position-absolute '>
               </div>
               <div className=' section1-div  position-absolute  row w-100' >
                 <div className='container'>
                   <div className='with-div'>
-                  <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
-                  <div className='border-red mb-2'></div>
-                  <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
+                  <div className='with-div-text'>
+                      <h2 className='text-white mb-2'>{t('Data.SectionOne.1')}</h2>
+                      <div className='border-red mb-2'></div>
+                      <p className='text-white'>{t('Data.SectionOne.2')} {t('Data.SectionOne.3')}</p>
+                    </div>
                   </div>
-                
+
                 </div>
 
               </div>

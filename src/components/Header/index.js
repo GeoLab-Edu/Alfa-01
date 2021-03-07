@@ -29,25 +29,26 @@ function Header() {
                             
                         </div>
                         <div className="languageButton ml-4">
-                            <Button onClick={() => handleClick('en')}>
-                                <p className="EN">EN</p>
+                            <Button  className='pr-2' onClick={() => handleClick('en')}>
+                                <p className="EN m-0  ">EN</p>
                             </Button>
-                            <Button onClick={() => handleClick('geo')}>
-                                <p className="GE">GE</p>
+                            <Button  onClick={() => handleClick('geo')}>
+                                <p className="GE m-0 ">GE</p>
                             </Button>
                         </div>
                     </div>
-                    <ul className="ulNav">
+                    <ul className="ulNav p-0 ">
                         <li>
                             <NavLink className="navStyle Nav-a" to="/Home"> {t('Data.Header.1')} </NavLink>
                         </li>
                         <li>
-                            <NavLink className="navStyle Nav-a" to="/FOR BUSSINES"> {t('Data.Header.2')}  </NavLink>
+                            <NavLink className="navStyle Nav-a" to="/auto"> {t('Data.Header.2')}  </NavLink>
                         </li>
                         <li>
-                            <NavLink className="navStyle Nav-a" to="/COMPANY"> {t('Data.Header.3')}  </NavLink>
+                            <NavLink className="navStyle Nav-a" to="/Company-page"> {t('Data.Header.3')}  </NavLink>
                         </li>
                         <li>
+                           
                             <DropdownButton
                                 menuAlign="right"
                                 title={t('Data.Header.4')}

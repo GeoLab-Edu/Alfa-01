@@ -76,13 +76,13 @@ export default function Footer() {
 
                     <div className='col-2 text'>
                         <h6>{t('Data.Footer.Apps.1')}</h6>
-                        <div className='App-store row justify-content-end'>
+                        <div className='App-store row '>
                             <img src={Apple} alt="Logo" />
                         </div>
 
                     </div>
                     <div className='col-2 text p-top'>
-                        <div className='App-store row justify-content-end'>
+                        <div className='App-store row '>
                             <img src={Android} alt="Logo" />
                         </div>
 
@@ -96,7 +96,7 @@ export default function Footer() {
                     <a href="https://www.example.com">{t('Data.Footer.Partners.3')}</a>
                     <a href="https://www.example.com">{t('Data.Footer.Partners.4')}</a>
                     <a href="https://www.example.com">{t('Data.Footer.Partners.5')}</a>
-                    <a href="https://www.example.com">{t('Data.Footer.Partners.6')}</a>
+                    <a className='text-a' href="https://www.example.com">{t('Data.Footer.Partners.6')}</a>
 
                 </div>
             </div>

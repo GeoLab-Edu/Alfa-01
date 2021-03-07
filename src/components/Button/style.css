@@ -9,6 +9,7 @@
     font-weight: bold;
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 0px;
     margin: 0px;
 }
@@ -24,4 +25,5 @@
     font-weight: bold;
     display: flex;
     justify-content: center;
+    align-items: center;
 }

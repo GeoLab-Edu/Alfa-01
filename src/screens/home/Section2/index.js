@@ -23,9 +23,9 @@ export default function SectionTwo() {
     return (
         <div className="sectionOne container">
             <div className='title-sectionone text-center'>
-                <h1>{t('Data.SectionTwo.title.1')}</h1>
-                <p className='mb-4'>{t('Data.SectionTwo.title.2')}</p>
-                <p className='mb-4'>{t('Data.SectionTwo.title.3')}</p>
+                <h1>შენთვის</h1>
+                <p className='m-0'>{t('Data.SectionTwo.title.2')}</p>
+                <p className=' text-p '>{t('Data.SectionTwo.title.3')}</p>
             </div>
             <div className='row'>
                 <div className='col-4 pr-0 text-center position-relative'>

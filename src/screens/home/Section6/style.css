@@ -44,4 +44,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  .myapp{
+    padding-left: 29px;
+    padding-right: 0px;
+  }
  

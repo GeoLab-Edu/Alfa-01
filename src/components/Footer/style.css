@@ -29,4 +29,10 @@
    width: 105px;
    padding: 0px 15px;
 }
+.left-box{
+    padding-left: 6px !important;
+}
+.text-a{
+    width: 143px !important; 
+}
 

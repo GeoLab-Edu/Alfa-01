@@ -19,10 +19,11 @@ export default function Section1() {
                             <NavLink className='position-absolute  text-white pt-0 pb-0' href="/Home" >მთავარი > ჩემი კაბინეტი</NavLink>
                         </div>
                         <div className='with-div '>
-                            <h2 className='text-white mb-2 companipage-title'>12 ფილიალი საქართველოს მასშტაბით</h2>
-                            <div className='border-red mb-2'></div>
-                            <p className='text-white'>ჩვენს სადაზღვეო ოფისებს შეხვდებით არა მხოლოდ თბილიშსი
-                </p>
+                            <div className='with-div-text'>
+                                <h2 className='text-white mb-2'>12 ფილიალი საქართველოს მასშტაბით</h2>
+                                <div className='border-red mb-2'></div>
+                                <p className='text-white'>ჩვენს სადაზღვეო ოფისებს შეხვდებით არა მხოლოდ თბილიშსი</p>
+                            </div>
 
                         </div>
 
