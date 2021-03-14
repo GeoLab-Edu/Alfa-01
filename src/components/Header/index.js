@@ -17,16 +17,6 @@ function Header() {
         i18n.changeLanguage(lang);
     }
 
-    // const lang = document.querySelector('.languageButton');
-    // const link = document.querySelectorAll('.p');
-
-    // link.forEach(el => {
-    //     el.addEventListener('click', () => {
-    //         lang.querySelector('.actives').classList.remove('.actives');
-    //         el.classList.add('.actives');
-    //     })
-    // })
-
 
 
     return (

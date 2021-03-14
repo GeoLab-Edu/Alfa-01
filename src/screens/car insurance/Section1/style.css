@@ -90,3 +90,34 @@
 .b-c-next:hover {
     color: #fff;
 }
+
+@media (max-width:1000px){
+    .res-column{
+        flex-direction: column !important;
+        align-items: stretch !important;
+    }
+}
+@media screen and (max-width: 1024px) and (max-height: 1366px){
+    .res-column{
+        width: 90% !important;
+    }
+    .auto-clip-position {
+        top: 17% !important;
+    }
+    .auto-clip-text-position {
+        left: 35% !important;
+        top: 19% !important;
+        font-size: unset !important;
+    }
+}
+@media screen and (max-width: 768px) and (max-height: 1024px){
+    .auto-clip-position {
+        top: 30% !important;
+        width: 90% !important;
+    }
+    .auto-clip-text-position {
+        left: 30% !important;
+        top: 33% !important;
+        font-size: unset !important;
+    }
+}

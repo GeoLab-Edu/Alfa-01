@@ -9,3 +9,9 @@
 .svgicon img{
     height: 50px;
 }
+
+@media (max-width:1000px){
+    .sectionOne .row {
+        flex-direction: column;
+    }
+}
