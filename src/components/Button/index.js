@@ -1,5 +1,3 @@
-
-
 import './style.css';
 
 export default function Button({ type = '', title }) {

@@ -112,13 +112,13 @@ button.btn.btn-primary {
 }
 .dropdown-menu {
     transition: all 1s ease;
-    transform: translate(-1050px, -100px);
+    transform: translate(-1110px, -250px);
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 5;
     width: 1200px;
-    inset: 0 auto auto 50px !important;
+    inset: 30px auto auto 210px !important;
 }
 .Dropdown-div {
     width: 100%;
@@ -130,6 +130,9 @@ button.btn.btn-primary {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: flex-start;
+}
+.actives {
+    background-color: #E84F5B;
 }
 .Dropdown-a {
     color: #E84F5B;

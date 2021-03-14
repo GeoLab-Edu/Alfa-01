@@ -6,8 +6,8 @@ import Cabneticon1 from "../../../assets/images/Cabneticon1.svg";
 import Cabneticon2 from "../../../assets/images/Cabneticon2.svg";
 import Cabneticon3 from "../../../assets/images/Cabneticon3.svg";
 import Cabneticon4 from "../../../assets/images/Cabneticon4.svg";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAngleDown } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAngleDown } from '@fortawesome/free-solid-svg-icons';
 import Button from "../../../../src/components/Button";
 
 import './style.css';
@@ -16,7 +16,7 @@ import { NavLink } from "react-bootstrap";
 export default function Pay(props) {
     const [expanded, setExpanded] = useState(props.expanded)
     return (
-        <div className=' pay-row'>
+        <div className='pay-row'>
 
             <div className={`cabnet-background-${props.background}`}>
                 <div className='cabnet-white-box p-4'>

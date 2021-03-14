@@ -1,0 +1,15 @@
+.year-box{
+    height: 88px;
+    width: 111px;
+    background-color: #E84F5B;
+    border-radius: 10px;
+    z-index: 10000000000;
+}
+.year-box-border{
+    border: 1px solid red !important;
+}
+.year-line{
+    border: 1px solid red;
+    top: 44px;
+    width: 90%;
+}

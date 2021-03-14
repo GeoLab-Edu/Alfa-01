@@ -17,6 +17,18 @@ function Header() {
         i18n.changeLanguage(lang);
     }
 
+    // const lang = document.querySelector('.languageButton');
+    // const link = document.querySelectorAll('.p');
+
+    // link.forEach(el => {
+    //     el.addEventListener('click', () => {
+    //         lang.querySelector('.actives').classList.remove('.actives');
+    //         el.classList.add('.actives');
+    //     })
+    // })
+
+
+
     return (
         <React.Fragment>
             <div className="header container">
@@ -45,13 +57,10 @@ function Header() {
                             <NavLink className="navStyle Nav-a" to="/FOR BUSSINES"> {t('Data.Header.2')}  </NavLink>
                         </li>
                         <li>
-                            <NavLink className="navStyle Nav-a" to="/COMPANY"> {t('Data.Header.3')}  </NavLink>
-                        </li>
-                        <li>
                             <DropdownButton
                                 menuAlign="right"
-                                title={t('Data.Header.4')}
-                                className="aPersonalCabnet Nav-a"
+                                title={t('Data.Header.3')}
+                                className="navStyle Nav-a"
                             >
                                 <div className="Dropdown-div">
                                     <div className="Dropdown-items">
@@ -87,7 +96,7 @@ function Header() {
                                         </Dropdown.Item>
                                         <Dropdown.Item eventKey="2">
                                             <img className="Mask" alt="error" src={Mask} />
-                                            <NavLink className="Dropdown-a" to="/COMPANY"> {t('Data.Dropdown.Section2.2')} </NavLink>
+                                            <NavLink className="Dropdown-a" to="/auto"> {t('Data.Dropdown.Section2.2')} </NavLink>
                                         </Dropdown.Item>
                                         <Dropdown.Item eventKey="3">
                                             <img className="Mask" alt="error" src={Mask} />
@@ -126,6 +135,9 @@ function Header() {
                                     </div>
                                 </div>
                             </DropdownButton>
+                        </li>
+                        <li>
+                            <NavLink className="aPersonalCabnet Nav-a" to="/personal-cabnet"> {t('Data.Header.4')}  </NavLink>
                         </li>
                     </ul>
                 </nav>

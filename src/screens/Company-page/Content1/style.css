@@ -1,0 +1,55 @@
+.search{
+    border: 1px solid #E84F5B;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    height: 34px;
+    color: #8B9296;
+}
+
+.background-contact1{
+    background-image: url(../../../assets/images/Contact.png); 
+    background-color: #cccccc; 
+    height: 93px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+    margin: 15px 0px 20px 0px;
+}
+
+.background-contact2{
+    background-image: url(../../../assets/images/Contact2.png); 
+    background-color: #cccccc; 
+    height: 93px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+    margin: 15px 0px 20px 0px;
+}
+.background-contact3{
+    background-image: url(../../../assets/images/Contact3.png); 
+    background-color: #cccccc; 
+    height: 93px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+    margin: 15px 0px 20px 0px;
+}
+.background-contact4{
+    background-image: url(../../../assets/images/Contact4.png); 
+    background-color: #cccccc; 
+    height: 93px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    border-radius: 10px;
+    margin: 15px 0px 20px 0px;
+}
+.background-size{
+    height: 90px;
+}
+/* .background-size img{
+    height: 30px;
+} */

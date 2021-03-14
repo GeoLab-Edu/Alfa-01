@@ -10,7 +10,7 @@ export default function Section4() {
            
 
             <div className='scroll scroll-gray scroll-gray position-relative pb-4'>
-                <div class="d-flex position-absolute">
+                <div className="d-flex position-absolute">
 
                     <div className='box box-gray  p-3  ml-0'>
                         <div className='d-flex flex-column gray-div'>

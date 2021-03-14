@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next';
 import Car1 from '../../../assets/images/Car1.svg'
 import Car2 from '../../../assets/images/Car2.png'
 import Car3 from '../../../assets/images/Car3.svg'
@@ -6,11 +7,15 @@ import Scrollicon from "../../../assets/images/Scrollicon.svg";
 
 import './style.css';
 export default function Section4() {
+
+    const { t } = useTranslation();
+
+
     return (
         <div>
             <div className='container pb-5'>
 
-                <p className='scroll-title'>ის რაც უნდა იცოდეთ</p>
+                <p className='scroll-title'>{t('Data-auto.Section4.header.1')}</p>
                 <div className='scroll scroll-height scroll-red scroll-gray scroll-gray position-relative '>
                     <div class="d-flex position-absolute">
 
@@ -26,11 +31,11 @@ export default function Section4() {
                                     </div>
 
                                     <div>
-                                        <p className='scroll-box-title  text-white '>დისტანციური კონსულტაცია</p>
-                                        <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                        შესაძლებელია სატელეფონო ან ვიდეო
-                                        კონსულტაციი...
-                                </p>
+                                        <p className='scroll-box-title  text-white '>{t('Data-auto.Section4.1.1')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.1.2')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.1.3')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.1.4')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.1.5')}</p>
                                     </div>
 
                                 </div>
@@ -49,11 +54,10 @@ export default function Section4() {
                                     </div>
 
                                     <div>
-                                        <p className='scroll-box-title  text-white '>დასაქმებულთა დაზღვევა</p>
-                                        <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                        შესაძლებელია სატელეფონო ან ვიდეო
-                                        კონსულტაციი...
-                                </p>
+                                        <p className='scroll-box-title  text-white '>{t('Data-auto.Section4.2.1')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.2')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.3')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.4')}</p>
                                     </div>
 
                                 </div>
@@ -64,7 +68,7 @@ export default function Section4() {
 
                         <div className='main-box position-relative'>
                             <div className=' car-box-img '>
-                                <img src={Car3} alt="Logo" />
+                                <img src={Car2} alt="Logo" />
                             </div>
                             <div className='box box-gray  p-3 position-absolute car-box2'>
                                 <div className='d-flex flex-column gray-div'>
@@ -73,11 +77,10 @@ export default function Section4() {
                                     </div>
 
                                     <div>
-                                        <p className='scroll-box-title  text-white '>დასაქმებულთა დაზღვევა</p>
-                                        <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                        შესაძლებელია სატელეფონო ან ვიდეო
-                                        კონსულტაციი...
-                                </p>
+                                        <p className='scroll-box-title  text-white '>{t('Data-auto.Section4.2.1')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.2')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.3')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.4')}</p>
                                     </div>
 
                                 </div>
@@ -97,11 +100,10 @@ export default function Section4() {
                                     </div>
 
                                     <div>
-                                        <p className='scroll-box-title  text-white '>დასაქმებულთა დაზღვევა</p>
-                                        <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                        შესაძლებელია სატელეფონო ან ვიდეო
-                                        კონსულტაციი...
-                                </p>
+                                        <p className='scroll-box-title  text-white '>{t('Data-auto.Section4.2.1')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.2')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.3')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.2.4')}</p>
                                     </div>
 
                                 </div>
@@ -120,10 +122,8 @@ export default function Section4() {
                                     </div>
 
                                     <div>
-                                        <p className='scroll-box-title  text-white '>დასაქმებულთა დაზღვევა</p>
-                                        <p className='text-white text-size'>სასიამოვნო სიახლე ალფასგან უკვე
-                                        შესაძლებელია სატელეფონო ან ვიდეო
-                                        კონსულტაციი...
+                                        <p className='scroll-box-title  text-white '>{t('Data-auto.Section4.1')}</p>
+                                        <p className='text-white text-size'>{t('Data-auto.Section4.1')}
                                 </p>
                                     </div>
 
