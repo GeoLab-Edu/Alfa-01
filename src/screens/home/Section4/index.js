@@ -16,7 +16,7 @@ export default function Section4() {
                 {t('Data.SectionFour.1.text.1')}
             </p>
 
-            <Carousel className='carusel'>
+            <Carousel className='carusel mb-5'>
                 <Carousel.Item>
                     <div className='d-flex justify-content-center'>
                         <div className='position-relative'>
@@ -33,6 +33,7 @@ export default function Section4() {
                             <p className='text-center m-2'>{t('Data.SectionFour.2.2.1')}</p>
                             <div className='position-absolute truckicon'>
                                 <img src={Truckicon} alt="img" />
+                                
                             </div>
                         </div>
 

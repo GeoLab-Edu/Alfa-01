@@ -1,0 +1,74 @@
+.paybox-form1{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 80%;
+}
+.paybox-form p{
+    font-size: 22px;
+}
+.form-control{
+    width: 250px;
+    height: 36px;
+    border: 1px solid #E84F5B;
+    border-radius: 10px;
+}
+.paybox-form2{
+    width: 80%;
+    padding: 20px 0px 80px 0px;
+    margin-bottom: 30px;
+}
+.form-box{
+    width: 250px;
+    height: 36px;
+    border-radius: 10px;
+    border: 1px solid #E84F5B;
+}
+.line-form{
+    height: 34px;
+    width: 50px;
+    border-left: 1px solid #E84F5B;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.line-form p{
+    margin: 0px;
+}
+
+.form-box input{
+    border: none;
+    height: 34px;
+    margin: 0px;
+}
+
+
+  
+/* .tooltip-icon {
+    position: relative;
+   
+   
+  }
+  
+  .tooltip-icon .tooltiptext {
+    visibility: hidden;
+    width: 175px;
+    height: 80px;
+    background-color: #E24D59;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    position: absolute;
+    z-index: 1;
+    top: 40px;
+    right: 0px;
+    font-size: 12px;
+   
+  }
+  
+  .tooltip-icon:hover .tooltiptext {
+    visibility: visible;
+  } */
+ 

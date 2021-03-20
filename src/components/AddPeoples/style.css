@@ -1,0 +1,20 @@
+.addpeoples-box{
+    box-shadow:0px 3px 17px -11px rgb(0 0 0 / 58%) !important;
+    width: 40%;
+    height: 120px;
+    ;
+}
+.size22{
+    font-size: 22px;
+}
+.addpeoples-box2{
+    height: 97px;
+}
+.addpeoples-box2 p{
+font-size: 22px;
+}
+
+
+/* .input-form{
+    width: 0px !important;
+} */

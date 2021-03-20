@@ -1,9 +1,9 @@
-import './style.css';
+
 import  Telephone from '../../assets/photo/phonelink_ring-24px.svg';
 import  Message from '../../assets/photo/icons.svg';
 import  Search from '../../assets/photo/search-24px (1).svg';
 import { useTranslation } from 'react-i18next';
-
+import './style.css';
 export default function Contact() {
 
     const { t } = useTranslation();
