@@ -22,16 +22,6 @@ export default function Section2() {
 
                     <div className='col-4'> <Pay background="box3" /></div>
                 </div>
-
-
-
-
-
-
-
-
-
-
             </div>
         </div>
 

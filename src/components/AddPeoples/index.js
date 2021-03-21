@@ -19,7 +19,7 @@ export default function AddPeoples() {
 
             <div className='addpeoples-box p-3'>
                 <div className='d-flex'>
-                    <p className='size22 m-0 mb-1' >სახელი გვარი</p>
+                    <p className='size22 m-0 mb-1 gray-color' >სახელი გვარი</p>
                     <TooltipIcon />
                 </div>
                 <p className='m-0'>01100187786</p>
@@ -58,12 +58,12 @@ export default function AddPeoples() {
                         <div className=' col-6'>
                             <Form.Group >
                                 <Form.Label htmlFor="disabledTextInput">პირადი ნომერი</Form.Label>
-                                <Form.Control id="disabledTextInput" placeholder="01100178876" />
+                                <Form.Control className='input-form' id="disabledTextInput" placeholder="01100178876" />
                             </Form.Group>
 
                             <Form.Group >
                                 <Form.Label htmlFor="disabledTextInput">სახელი</Form.Label>
-                                <Form.Control id="disabledTextInput pr-0" placeholder="" />
+                                <Form.Control className='input-form' id="disabledTextInput pr-0" placeholder="" />
                             </Form.Group>
 
 
@@ -72,7 +72,7 @@ export default function AddPeoples() {
 
                             <Form.Group >
                                 <Form.Label htmlFor="disabledTextInput">დაბადების თარიღი</Form.Label>
-                                <Form.Control id="disabledTextInput " placeholder="DD/MM/YY" />
+                                <Form.Control className='input-form' id="disabledTextInput " placeholder="DD/MM/YY" />
                             </Form.Group>
                             <Form.Group >
                                 <Form.Label htmlFor="disabledTextInput">გვარი</Form.Label>

@@ -15,7 +15,7 @@ import './style.css';
 
 
 
-export default function PayBox() {
+export default function PayBox(props) {
     return (
         <div className='container '>
             <div className='grey-background'>
@@ -39,20 +39,14 @@ export default function PayBox() {
 
 
             <div>
-                <p className='text-center pay-text'>გადასახდელი თანხა</p>
-                <p className='text-center gray-number'>46.85₾</p>
+                <p className='text-center pay-text gray-color'>გადასახდელი თანხა</p>
+                <p className='text-center gray-number gray-color font-weight-bold'>46.85₾</p>
                 <div className='d-flex alignt-itmes-center justify-content-center mb-5'>
-                    <div className='d-flex align-items-center mr-2'>
+                    <div className='d-flex align-items-center mr-2' onClick={props.goBack}>
                         <FontAwesomeIcon icon={faArrowLeft} />
                         <p className='m-0 ml-2'>უკან</p>
                     </div>
-
-
-                    <Button title="შეძენა" type='small' />
-
-
-
-
+                    <Button title="შეძენა" type='small' onClick={props.goNext} />
                 </div>
 
 

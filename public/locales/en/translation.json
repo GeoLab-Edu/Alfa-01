@@ -1,7 +1,7 @@
 {
     "Data": {
         "Header": {
-            "1":"HOME",
+            "1":"INDIVIDUAL",
             "2":"FOR BUSSINES",
             "3":"COMPANY",
             "4":"PERSONAL CABNET"
@@ -184,5 +184,51 @@
 
         }
 
+    },
+    "Data-auto":{
+        "Section1":{
+            "1":"AUTO INSURANCE",
+            "2":"While driving the road is full of surprises. You can protect your finances."
+        },
+        "Section2":{
+            "1":"AUTOMOBILE INSURANCE",
+            "2":"LIABILITY INSURANCE",
+            "3":"PASSENGER INSURANCE"
+        },
+        "Section3":{
+            "1":"While driving the road is full of surprises. You can protect your finances and use 24 hours auto assistant by insuring your car. In case of a car accident, car insurance will help you to repair or change damaged parts of the car and give you the opportunity to return to your normal life in the shortest time.",
+            "2":"WHAT DOES MOTOR INSURANCE COVER?",
+            "3":"Vehicle damage as a result of road accident",
+            "4":"Fires And Explosions",
+            "5":"Various subjects falling",
+            "6":"Theft, Robbery, Burglary",
+            "7":"Theft of external details and accessories",
+            "8":"Natural disasters (hail, thunder, etc.)",
+            "9":"Damage of windshield and mirrors",
+            "10":"Damage of parked car",
+            "11":"WE INSURE ALL TYPES OF VEHICULES",
+            "12":"conditions",
+            "13":"agreements",
+            "14":"tariff",
+            "15":"Buy"
+        },
+        "Section4":{
+            "header":{
+                "1":"THAT'S WHAT YOU NEED TO KNOW"
+            },
+            "1":{
+                "1":"Authorized Driver",
+                "2":"Any person over 21 and under 70 years of age,",
+                "3":"having a valid",
+                "4":"driving license and at least",
+                "5":"1 (one) year driving experience"
+            },
+            "2":{
+                "1":"How to act in case of insurance Event?",
+                "2":"Maintain the original state of the car accident",
+                "3":"Contact our hotline 2 640 640",
+                "4":"(contact police if needed)"
+            }
+        }
     }
 }

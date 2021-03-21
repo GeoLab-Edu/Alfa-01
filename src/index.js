@@ -5,12 +5,13 @@ import reportWebVitals from './reportWebVitals';
 import './index.css';
 import './i18next';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Loading from './Loading';
 
 
 
 ReactDOM.render(
   <React.StrictMode>
-      <Suspense fallback={(<div>Loading ~~~</div>)}>
+      <Suspense fallback={(<Loading/>)}>
         <App />
       </Suspense>
     </React.StrictMode>,

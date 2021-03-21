@@ -24,6 +24,10 @@ import MyVerticallyCenteredModal from "./components/MyVerticallyCenteredModal";
 
 
 
+// import CompanyPage from "./screens/Company-page/CompanyPage";
+import AutoInsurance1 from "./screens/car insurance/Section1/index";
+import Section2 from "./screens/car insurance/Section2/index";
+import Section3 from "./screens/car insurance/Section3/index";
 
 
 function App() {
@@ -44,6 +48,11 @@ function App() {
           <Route path="/MyVerticallyCenteredModal" exact component={MyVerticallyCenteredModal} />
           
           <Route path="/AutoInsurance" exact component={AutoInsurance} />
+
+          <Route path="/auto-insurance" exact component={AutoInsurance1} />
+          <Route path="/auto-insurance/Checkout-step2" exact component={Section2} />
+          <Route path="/auto-insurance/Checkout-step3" exact component={Section3} />
+
           <Route path="/" isActive={(match, location) => {
             if (location.pathname === '/' || match) {
               return true

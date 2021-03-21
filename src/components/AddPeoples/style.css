@@ -2,7 +2,7 @@
     box-shadow:0px 3px 17px -11px rgb(0 0 0 / 58%) !important;
     width: 40%;
     height: 120px;
-    ;
+    color: #5C656B !important;
 }
 .size22{
     font-size: 22px;
@@ -15,6 +15,9 @@ font-size: 22px;
 }
 
 
-/* .input-form{
-    width: 0px !important;
-} */
+.input-form{
+    width: 100% !important;
+}
+.gray-color{
+    color: #5C656B !important;
+}
