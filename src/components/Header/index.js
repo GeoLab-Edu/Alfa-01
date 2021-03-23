@@ -7,6 +7,7 @@ import  Headerlogo from '../../assets/images/Headerlogo.svg';
 import { useTranslation } from 'react-i18next';
 
 import './style.css';
+import BurgerMenu from '../BurgerMenu';
 
 
 function Header() {
@@ -23,6 +24,7 @@ function Header() {
         <React.Fragment>
             <div className="header container">
                 <nav className="navigation container d-flex  justify-content-between">
+                    <BurgerMenu/> 
                     <div className="ulLogo">
                         <div>
                             <NavLink className="logo" to="/Home">

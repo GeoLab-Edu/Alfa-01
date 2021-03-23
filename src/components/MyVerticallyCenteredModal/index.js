@@ -1,6 +1,6 @@
 
 
-import { Button, Modal } from 'react-bootstrap';
+import { Modal } from 'react-bootstrap';
 
 import './style.css';
 export default function MyVerticallyCenteredModal(props) {

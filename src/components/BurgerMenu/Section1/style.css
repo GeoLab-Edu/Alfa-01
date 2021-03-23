@@ -1,0 +1,11 @@
+.line {
+    height: 2px;
+    background-color: #5C656B;
+}
+.BurgerMenu-Personal-menu {
+    color: #5C656B;
+    text-decoration: underline #5C656B;
+}
+.flex-auto {
+    flex: auto;
+}
