@@ -17,14 +17,15 @@ function Header() {
     function handleClick(lang) {
         i18n.changeLanguage(lang);
     }
+    console.log(i18n.language)
 
 
 
     return (
         <React.Fragment>
+            <BurgerMenu/> 
             <div className="header container">
-                <nav className="navigation container d-flex  justify-content-between">
-                    <BurgerMenu/> 
+                <nav className="navigation container d-flex">
                     <div className="ulLogo">
                         <div>
                             <NavLink className="logo" to="/Home">
@@ -34,10 +35,10 @@ function Header() {
                         </div>
                         <div className="languageButton ml-4">
                             <Button  className='pr-2' onClick={() => handleClick('en')}>
-                                <p className="EN m-0  ">EN</p>
+                                <p className={`EN m-0 ${i18n.language === 'en' && 'activeLang'}`}>EN</p>
                             </Button>
                             <Button  onClick={() => handleClick('geo')}>
-                                <p className="GE m-0 ">GE</p>
+                                <p className={`GE m-0 ${i18n.language === 'geo' && 'activeLang'}`}>GE</p>
                             </Button>
                         </div>
                     </div>
@@ -46,12 +47,9 @@ function Header() {
                             <NavLink className="navStyle Nav-a" to="/Home"> {t('Data.Header.1')} </NavLink>
                         </li>
                         <li>
-                            <NavLink className="navStyle Nav-a" to="/auto"> {t('Data.Header.2')}  </NavLink>
-                        </li>
-                        <li>
                             <DropdownButton
                                 menuAlign="right"
-                                title={t('Data.Header.3')}
+                                title={t('Data.Header.2')}
                                 className="navStyle Nav-a"
                             >
                                 <div className="Dropdown-div">
@@ -84,7 +82,7 @@ function Header() {
                                     <div className="Dropdown-items">
                                         <Dropdown.Item eventKey="1">
                                             <img className="Mask" alt="error" src={Mask} />
-                                            <NavLink className="Dropdown-a" to="/COMPANY"> {t('Data.Dropdown.Section2.1')} </NavLink>
+                                            <NavLink className="Dropdown-a" to="/checkout-step"> {t('Data.Dropdown.Section2.1')} </NavLink>
                                         </Dropdown.Item>
                                         <Dropdown.Item eventKey="2">
                                             <img className="Mask" alt="error" src={Mask} />
@@ -127,6 +125,9 @@ function Header() {
                                     </div>
                                 </div>
                             </DropdownButton>
+                        </li>
+                        <li>
+                            <NavLink className="navStyle Nav-a" to="/Company-page"> {t('Data.Header.3')}  </NavLink>
                         </li>
                         <li>
                             <NavLink className="aPersonalCabnet Nav-a" to="/personal-cabnet"> {t('Data.Header.4')}  </NavLink>

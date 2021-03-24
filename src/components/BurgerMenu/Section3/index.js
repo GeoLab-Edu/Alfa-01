@@ -41,12 +41,12 @@ export default function Section3() {
                     <NavLink className="Burger-color">Notifications</NavLink>
                 </div>
                 <div className="line w-100"></div>
-                <div className=" d-flex justify-content-around align-items-center w-25 m-4">
+                <div className=" language d-flex justify-content-around align-items-center w-25 ml-5 m-4">
                     <button className=' border-0' onClick={() => handleClick('geo')}>
-                        <p className="Lang-BurgerMenu">GE</p>
+                        <p className={`Lang-BurgerMenu ${i18n.language === 'geo' && 'activeLang'}`}>GE</p>
                     </button>
                     <button  className=' border-0' onClick={() => handleClick('en')}>
-                        <p className="Lang-BurgerMenu">EN</p>
+                        <p className={`Lang-BurgerMenu ${i18n.language === 'en' && 'activeLang'}`}>EN</p>
                     </button>
                 </div>
             </div>

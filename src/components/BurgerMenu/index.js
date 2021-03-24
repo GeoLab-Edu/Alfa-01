@@ -18,13 +18,8 @@ class BurgerMenu extends React.Component {
   render () {
     return (
 
-        <Menu left width={ '100%' }  disableAutoFocus>
+        <Menu id="BurgerMenu" left width={ '100%' }  disableAutoFocus>
             <div className="outline d-flex h-auto justify-content-start align-items-center flex-column w-100">
-                <div className="d-flex h-auto justify-content-lg-start align-items-lg-start w-100">
-                    <NavLink className=" w-100" to="/Home">
-                        <img className='bg-color' src={Headerlogo} alt="Logo" />
-                    </NavLink>  
-                </div>
                 <div className="d-flex h-auto justify-content-center align-items-lg-start mt-2 w-100">
                     <Form inline className="position-relative">
                         <FormControl type="text" placeholder="Search" className="mr-sm-2 form-control-search" />

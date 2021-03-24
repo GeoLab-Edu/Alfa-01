@@ -15,7 +15,7 @@
 .header nav {
     z-index: 1;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     position: fixed;
     width: 100%;
@@ -114,13 +114,16 @@ button.btn.btn-primary {
 }
 .dropdown-menu {
     transition: all 1s ease;
-    transform: translate(-1110px, -250px);
+    transform: translate(-1100px, -250px);
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 5;
     width: 1200px;
-    inset: 30px auto auto 210px !important;
+    inset: 30px auto auto 400px !important;
+}
+.BurgerMenu{
+    display: none;
 }
 .Dropdown-div {
     width: 100%;
@@ -162,13 +165,25 @@ button.btn.btn-primary {
         display: none;
     }
     .ulLogo {
-        width: 19% !important;
+        width: 45% !important;
         display: flex;
         justify-content: space-around;
         align-items: center;
         list-style: none;
     }
+    .navigation {
+        width: 70% !important;
+        justify-content: flex-end !important;
+    }
+    .header {
+        width: 70% !important;
+    }
 }
 .headerimg{
     width: 144px;
 }
+.activeLang {
+    background-color:#E84F5B;
+    color: #fff;
+}
+

@@ -49,6 +49,7 @@
     display: flex;
   }
   
+
   /*
   Sidebar wrapper styles
   Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
@@ -95,9 +96,8 @@
     font-weight: bold;
     line-height: 2;
   }
-
 @media (min-width: 1277px) {
     .bm-burger-bars {
-    display: none !important;
+        display: none !important;
     }
   }
